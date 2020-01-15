@@ -7,7 +7,11 @@ tags: [development, php, apache, mysql]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 PHP was designed to make web development easier, and many beginners find it effortless to pick up and get started with. 
 
 The 'P' in PHP is present in the acronym LAMP which is short for: <br/>

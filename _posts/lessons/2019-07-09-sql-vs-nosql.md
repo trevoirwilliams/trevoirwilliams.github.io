@@ -6,6 +6,11 @@ img: sqlvnosql.jpg
 tags: [nosql, sql, database, development]
 comments: true
 ---
+{% include JB/setup %}
+
+{{page.sub-title}}
+
+<!--more-->
 
 There are two main types of databases, relational and non-relational. The major difference between them is how they handle data.
 

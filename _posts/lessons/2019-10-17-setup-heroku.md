@@ -7,7 +7,11 @@ tags: [git, php, github, heroku]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. Heroku also allows you to quickly deploy code to this space using GitHub branches. 
 
 In the following video we Create a Heroku (free) Account and App, then deploy our PHP application from a GitHub Repository. 

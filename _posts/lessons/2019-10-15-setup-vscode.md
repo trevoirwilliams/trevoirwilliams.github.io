@@ -7,7 +7,11 @@ tags: [development, php, apache, mysql]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. 
 
 Visual Studio Code can be optimized for almost any type of development stack with PHP being no exception. The secret to it's versatility lies in extensions. In the following video, we install Visual Studio Code and some extensions that will help us with our PHP development. 

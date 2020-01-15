@@ -7,7 +7,11 @@ tags: [php, form, mysql, database]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 In our [previous lesson](https://trevoirwilliams.github.io/2019-10-30-php-post/), we added a form method of 'post' that allowed us to transport our submitted form data to a second (or action) page in a discreet manner. 
 
 In this lesson, we begin to design a database that will have the tables we need to store the records that are being submitted. A database will allow us to persist our data. This way, we can view, update and delete this data at will at a later date.   

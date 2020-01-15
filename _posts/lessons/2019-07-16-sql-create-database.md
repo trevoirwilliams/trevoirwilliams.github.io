@@ -6,7 +6,11 @@ img: sql-img.jpg
 tags: [sql, database, development]
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 A database is an organized collection of data. This is generally stored and accessed electronically from a computer system, through a Database Management Tool. Most traditionally used databases (in no particular order) and their suggested management tools are:
 - Microsoft SQL Server - Microsoft Management Studio 
 - Microsoft Azure SQL - Microsoft Management Studio / Azure Portal

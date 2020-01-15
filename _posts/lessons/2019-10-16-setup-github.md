@@ -7,7 +7,11 @@ tags: [git, php, github, mysql]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. GitHub is also an excellent place to back up your code (my machine crashed the other day and it was GitHub to the rescue) and track all the changes you make. 
 
 In the following video, I walk you through creating a new account, using Git commands to push a PHP application to a repository (GitHub code space) and how to use their desktop client. 

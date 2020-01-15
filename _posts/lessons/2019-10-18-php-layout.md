@@ -7,7 +7,11 @@ tags: [git, php, bootstrap, development]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 A major part of web design is having a consistent layout. You should never be more than 2-3 clicks away from your destination, from any page. Bootstrap allows us to easily wire up a clean interface and coupled with PHP's include and require directives, we can quickly have a website that inherits common CSS styles on every page. 
 
 In the following video, we:

@@ -6,7 +6,11 @@ img: react-app.png
 tags: [javascript, development, web, react]
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 React JS is a JavaScript library for building single page applications with intuitive and interactive UIs. It has been growing in popularity and is currently being used by big companies like Facebook, Instagram and WhatsApp.
 
 In this post, we will look at some steps towards getting started with a React JS app. 

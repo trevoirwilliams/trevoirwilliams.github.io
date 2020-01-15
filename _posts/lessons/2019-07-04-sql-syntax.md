@@ -7,6 +7,12 @@ tags: [sql, database, development, tips, database series]
 comments: true
 ---
 
+{% include JB/setup %}
+
+{{page.sub-title}}
+
+<!--more-->
+
 An SQL SELECT statement retrieves records from a database table according to clauses (for example, FROM and WHERE) that specify criteria. The syntax is:
 
 ```sql

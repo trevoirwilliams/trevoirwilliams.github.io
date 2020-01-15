@@ -7,7 +7,11 @@ tags: [php, pdo, mysql, database]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 In our [previous lesson](https://trevoirwilliams.github.io/2019-11-05-php-pdo/), we created code libraries that will initialize a PDO object. Using this object, we can leverage the inherent functions and write code to interact with our database. The next steps involve us using this object to carry out CRUD operations. 
 
 In this lesson, we modify our PHP form and action page to forward any submitted data from the form, to our database. 

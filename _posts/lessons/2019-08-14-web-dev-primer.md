@@ -6,7 +6,11 @@ img: web-dev.jpg
 tags: [web, development, application, html, css, javascript, get started]
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 From time to time, I am asked by my students and peers in non-IT sectors, "How Do I become a web developer, and where do I start?". 
 
 While Vocational Training or a University degree is essential, everyone must be self-taught to some extent.

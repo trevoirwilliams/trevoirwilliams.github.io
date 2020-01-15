@@ -6,6 +6,11 @@ img: relational-database.png
 tags: [sql, database, development, tips, database series]
 comments: true
 ---
+{% include JB/setup %}
+
+{{page.sub-title}}
+
+<!--more-->
 
 When working with data in relational databases there are some key concepts one must appreciate. 
 

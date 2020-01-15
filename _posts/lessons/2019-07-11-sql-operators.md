@@ -6,7 +6,11 @@ img: sql-img.jpg
 tags: [sql, database, development]
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 SQL Operators include reserved keywords or characters used primarily in the SQL statement’s WHERE clause. These keywords allow you to be more specific with conditions. 
 
 ## SQL Comparison Operators

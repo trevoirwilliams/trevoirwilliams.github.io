@@ -6,7 +6,11 @@ img: asp-net-api.jpg
 tags: [web, development, application, html, css, javascript, tips, get started]
 comments: true
 ---
+{% include JB/setup %}
 
+{{page.sub-title}}
+
+<!--more-->
 The web development industry is consistently changing. Trends emerge almost daily and debut with gold and silver linings in a bid to entice developers into early and potentially unproductive adoption. Seasoned developers tend to look a bit further and assess technologies for their merits in strategic value, architectural philosophy and overall practicality. 
 
 In this article, we will review what we need to be aware of when we are brandished with a new technology or framework. 

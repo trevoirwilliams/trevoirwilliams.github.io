@@ -6,6 +6,11 @@ img: extensions-lists.png
 tags: [html, web, development, bootstrap]
 comments: true
 ---
+{% include JB/setup %}
+
+{{page.sub-title}}
+
+<!--more-->
 
 [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} is a code editor that is optimized for building and debugging modern web applications. It is open source and boasts a large community of developers who are constantly producing excellent extensions that increase productivity. 
 

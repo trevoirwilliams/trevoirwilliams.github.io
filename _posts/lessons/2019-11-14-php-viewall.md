@@ -15,6 +15,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: php, pdo, mysql, database
+canonical: https://fullit.github.io
 ---
 {% include JB/setup %}
 

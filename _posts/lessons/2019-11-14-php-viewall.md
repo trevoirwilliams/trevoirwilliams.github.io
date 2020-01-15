@@ -19,7 +19,7 @@ canonical: https://fullit.github.io
 ---
 {% include JB/setup %}
 
-In this lesson, we modify our PHP application to allow us to see a list of all persons who have registered for our conference. 
+{{page.sub-title}}
 
 <!--more-->
 

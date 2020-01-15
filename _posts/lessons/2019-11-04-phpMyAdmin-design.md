@@ -2,7 +2,7 @@
 layout: post
 title: Design MySQL Database using phpMyAdmin
 sub-title: This lesson walks us through using the free open source database management tool, phpMyAdmin, to create a new database to be used for our simple PHP Application.
-image: /assets/images/phpmyadmin-logo.png
+img: phpmyadmin-logo.png
 tags: [php, form, mysql, database]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true

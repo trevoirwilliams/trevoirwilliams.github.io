@@ -2,7 +2,7 @@
 layout: post
 title: Setup for PHP using XAMPP Server
 sub-title: A short guide on how to prep a development machine for PHP Development
-image: /assets/images/xampp.png
+img: xampp.png
 tags: [development, php, apache, mysql]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true

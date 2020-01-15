@@ -2,7 +2,7 @@
 layout: post
 title: PHP Website Layout and Setup using Bootstrap 4
 sub-title: A jump start into creating a PHP application from scratch and setting up a consistent layout for all pages. 
-image: /assets/images/web-dev.jpg
+img: web-dev.jpg
 tags: [git, php, bootstrap, development]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true

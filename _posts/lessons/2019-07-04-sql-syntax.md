@@ -2,7 +2,7 @@
 layout: post
 title: SQL SELECT Statement Syntax
 sub-title: A peek at the SQL Select Statement and the basic syntax
-image: /assets/images/sql-course.jpg
+img: sql-course.jpg
 tags: [sql, database, development, tips, database series]
 comments: true
 ---

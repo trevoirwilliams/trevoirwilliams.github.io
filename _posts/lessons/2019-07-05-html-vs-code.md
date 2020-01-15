@@ -2,7 +2,7 @@
 layout: post
 title: Bootstrap 4 and Visual Studio Code in 10 Minutes 
 sub-title: A guide on how to author Bootstrap 4 Pages using Visual Studio Code
-image: /assets/images/extensions-lists.png
+img: extensions-lists.png
 tags: [html, web, development, bootstrap]
 comments: true
 ---

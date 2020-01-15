@@ -2,7 +2,7 @@
 layout: post
 title: Web Development Trend Traps
 sub-title: Web Development Trend Traps that developers should avoid falling into.
-image: /assets/images/asp-net-api.jpg
+img: asp-net-api.jpg
 tags: [web, development, application, html, css, javascript, tips, get started]
 comments: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Relational SQL vs. Non-Relational NoSQL Databases
 sub-title: A comparison between Relational Databases and NoSQL Databases. 
-image: /assets/images/sqlvnosql.jpg
+img: sqlvnosql.jpg
 tags: [nosql, sql, database, development]
 comments: true
 ---

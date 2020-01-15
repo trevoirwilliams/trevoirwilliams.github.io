@@ -2,7 +2,7 @@
 layout: post
 title: SQL Create New Database and Tables
 sub-title: A walk through of how to create a new database and tables using SQL 
-image: /assets/images/sql-img.jpg
+img: sql-img.jpg
 tags: [sql, database, development]
 comments: true
 ---

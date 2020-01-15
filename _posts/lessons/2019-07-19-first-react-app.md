@@ -2,7 +2,7 @@
 layout: post
 title: Create Your First React App
 sub-title: Let's explore the steps to get started with building a React 
-image: /assets/images/react-app.png
+img: react-app.png
 tags: [javascript, development, web, react]
 comments: true
 ---

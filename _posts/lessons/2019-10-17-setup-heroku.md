@@ -2,7 +2,7 @@
 layout: post
 title: Setup and Use Free Heroku Account
 sub-title: A short guide on how to setup and use a Heroku account, create an app and publish a PHP application from GitHub.
-image: /assets/images/heroku.png
+img: heroku.png
 tags: [git, php, github, heroku]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true

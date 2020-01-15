@@ -2,7 +2,7 @@
 layout: post
 title: Create MySQL Database Records with PHP
 sub-title: This lesson shows us how to use our PHP Data Object library in our PHP application, to insert new records into our MySQL Database 
-image: /assets/images/php-logo.jpg
+img: php-logo.jpg
 tags: [php, pdo, mysql, database]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true

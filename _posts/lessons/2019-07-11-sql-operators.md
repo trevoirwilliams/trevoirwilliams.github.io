@@ -2,7 +2,7 @@
 layout: post
 title: SQL Operators in the WHERE Clause
 sub-title: Get familiar with commonly used to know SQL Operators and Keywords when filtering data with the WHERE Clause 
-image: /assets/images/sql-img.jpg
+img: sql-img.jpg
 tags: [sql, database, development]
 comments: true
 ---

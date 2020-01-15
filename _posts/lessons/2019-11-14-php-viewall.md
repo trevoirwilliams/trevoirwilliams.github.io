@@ -19,6 +19,10 @@ canonical: https://fullit.github.io
 ---
 {% include JB/setup %}
 
+In this lesson, we modify our PHP application to allow us to see a list of all persons who have registered for our conference. 
+
+<!--more-->
+
 In our [previous lesson](https://trevoirwilliams.github.io/2019-11-06-php-insert/), we created a class to handle our database interactions. We called this class CRUD, and wrote code that allowed to save a new record to our database. The next step is to be able to view the records in the database, through our web application. 
 
 In this lesson, we modify our PHP application to allow us to see a list of all persons who have registered for our conference. 

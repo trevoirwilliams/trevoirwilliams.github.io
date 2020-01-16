@@ -30,7 +30,23 @@
                     <li class="nav-item">
                       <a class="nav-link" href="{{ BASE_PATH }}/blog">Blog</a>
                     </li>
-
+                    {%- for link in site.navbar-links -%}
+                      {%- if link[1].first %}
+                        <li class="nav-item">
+                          <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
+                          <div class="navlinks-children">
+                            {%- for childlink in link[1] -%}
+                            {%- for linkparts in childlink %}
+                            <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                            {%- endfor -%}
+                            {%- endfor %}
+                          </div>
+                        </li>
+                      {% else %}
+                        <li class="nav-item dropdown">
+                          <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a></li>
+                      {%- endif -%}
+                    {%- endfor -%}
                     <!-- <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Courses</a>
                       <div class="dropdown-menu">

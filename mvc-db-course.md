@@ -22,15 +22,46 @@ The .NET language of choice to learn is C#, as it is among the most widely used 
 In this course, you will also learn how to use Javascript, JQuery and JQueryUI and Ajax to develop dynamic and user friendly user interfaces. All interfaces will be keenly styled using the standard Bootstrap CSS Framework, which is used to maintain a standard look and feel across all pages. 
 
 #### At the end of this course, you should be able to:
-- Build a fully data driven web application
-- Understand the MVC Folder Structure
-- Add Data models to your project using Entity Framework
-- Write basic LINQ queries
-- Understand how Models, Views and Controllers combine to facilitate a web application
-- Understand Razor Syntax in views 
-- Understand C# Model Classes
-- Understand how to add views and actions to a controller
-- Use Bootstrap to insert JavaScript controls (sliders, etc), button and text styles and manipulate the overall layout
-- Upload a project to GitHub
-- Manage Packages in an MVC Project
-- User JQuery and tools to increase interactivity and animations on the interface.
+<ul class="list-style check-list pl-0">
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Build a fully data driven web application </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the MVC Folder Structure </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Add Data models to your project using Entity Framework </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Write basic LINQ queries   </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand how Models, Views and Controllers combine to facilitate a web application </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand Razor Syntax in views  </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand C# Model Classes  </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand how to add views and actions to a controller </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Use Bootstrap to insert JavaScript controls (sliders, etc), button and text styles and manipulate the overall layout </li>
+    <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Upload a project to GitHub </li>
+    <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Manage Packages in an MVC Project </li>
+    <li> <i class="fa fa-check light-green" aria-hidden="true"></i> User JQuery and tools to increase interactivity and animations on the interface. </li>
+</ul>
+
+#### Content and Overview
+
+To take this course, you will need to have some knowledge of Object Oriented Programming, if not C#. Even if you do not have much exposure to the .NET development stack, this course is very beginner friendly and chock full of development tips. 
+
+This is a huge course. Over 5 hours of premium content, but smartly broken up to highlight a set of related activities based on each module in the application that is being built. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.
+
+By the time you have finished the course you will have moved around in Visual Studio and examined logic and syntax errors so much, that it will be second nature for you when working in the .NET environment. This will put your new learned skills into practical use and impress your boss and coworkers.
+
+The course is complete with working files hosted on GitHub, with the inclusion of some files to make it easier for you to replicate the code being demonstrated. You will be able to work alongside the author as you work through each lecture and will receive a verifiable certificate of completion upon finishing the course.
+
+Clicking the Take This Course button could be the best step you could take towards quickly increasing your income and marketability! Also, remember that if you don't think the course is worth what you spent, you have a full 30 days to get a no questions asked refund!
+
+It's time to take action! This deal will not be available forever!
+
+Click the "Buy Now" button Today!
+
+Every hour you delay is costing you money...
+
+See you in the course!

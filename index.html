@@ -117,7 +117,7 @@ keywords: home, landing, website, development
       <!-- End sliders -->
                         
             
-      <div class="mb-50"></div>
+      <div class="mb-40"></div>
 	<div id="features" class="container">
 	<!-- SERVICES -->
             <!-- <div class="sub-title">
@@ -228,9 +228,9 @@ keywords: home, landing, website, development
            {% for post in site.posts %}     
             <div class="blog-block blog block carousel-post">
              {% if post.img %}           
-              <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="">
+             <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt=""></a>
              {% endif %}           
-              <h5>{{ post.title }}</h5>
+              <h5><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
               <p>{{ post.excerpt }}</p>
               <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
@@ -239,7 +239,7 @@ keywords: home, landing, website, development
         </div>
       </section>
       
-      <div class="mb-20"></div>
+      <div class="mb-40"></div>
       
 	
       <!-- CONTACT FORM -->     

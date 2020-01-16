@@ -6,16 +6,16 @@ image: /img/php-logo.jpg
 ---
 
 <div>
-    <h1 class="text-center text-info">Free PHP Web Development Course </h1>
+    <h1 class="text-center text-primary">Free PHP Web Development Course </h1>
     <span class="text-center lead">PHP was designed to make web development easier, and many beginners find it effortless to pick up and get started with. In fact, PHP code was so easy to pick up, many non-programmers end up being able to hack PHP code together without truly understanding the code. </span> <a href='https://github.com/trevoirwilliams/php_primer'> Full Source Code </a>
     <span></span>
     <hr/>
     <div class="row">
         <div class="col-md-6">
-            <h3 class="text-center text-info">Course Length <br/>10 hours</h3>
+            <h3 class="text-center text-primary">Course Length <br/>10 hours</h3>
         </div>
         <div class="col-md-6">
-            <h3 class="text-center text-info">Skill Level<br/>Beginner</h3>
+            <h3 class="text-center text-primary">Skill Level<br/>Beginner</h3>
         </div>
     </div>
     <hr/>

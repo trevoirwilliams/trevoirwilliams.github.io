@@ -5,15 +5,22 @@ subtitle: Learn to develop data driven web applications using PHP and MySQL, man
 image: /img/php-advanced-logo.png
 ---
 
-| [Udemy - Discount Coupon!](http://bit.ly/2Y037Mb){:target="_blank"} | [Uthena](http://bit.ly/34OshzI){:target="_blank"} | [Skillshare - 2 Months Free Premium Membership](https://skl.sh/3897t8m){:target="_blank"} |
+<div class="text-center">
+    <a href="http://bit.ly/2Y037Mb" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/3897t8m" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+</div>
 
 #### Overview
+<p class="lead">
 This course is designed to equip students with the skills required for creating dynamic web pages using PHP and MySQL. It further equips students with the fundamentals of PHP programming, while providing them with advanced features of the language. Immerse yourself in an end-to-end full-stack development experience, as we explore user interface design, business logic and hosting activities. By the end of this course, you will be able to build an attractive PHP application and host it for for future clients. 
+</p>
 
 #### Why Learn Development with PHP 
+<p class="lead">
 PHP was designed to make web development easier, and many beginners find it effortless to grasp and get started with. In fact, PHP code was so easy to learn, many non-programmers end up being able to write PHP application in no time! 
+</p>
 
-The top 5 reasons to learn PHP are:
+#### The top 5 reasons to learn PHP are:
 - Beginner Friendliness
 - Designed to Scale
 - Active Support Community 
@@ -41,7 +48,9 @@ The top 5 reasons to learn PHP are:
 - GitHub - For Source Control and collaboration
 - Heroku - For publishing website(s) PHP Application to the Cloud (Free with restrictions)
 
+<p class="lead">
 NO other course on the market can equip you with these skills. Level up now and be a part of the modern PHP Developers' club!
+</p>
 
 #### At the end of this course, you should be able to:
 - Build a fully data driven web application
@@ -66,4 +75,3 @@ NO other course on the market can equip you with these skills. Level up now and 
 - Web Developers without PHP Experience
 - Beginner PHP Developers
 
-| [Udemy - Discount Coupon!](http://bit.ly/2Y037Mb){:target="_blank"} | [Uthena](http://bit.ly/34OshzI){:target="_blank"} | [Skillshare - 2 Months Free Premium Membership](https://skl.sh/3897t8m){:target="_blank"} |

@@ -60,8 +60,8 @@
   //<script>
     $(document).ready(function() {
       $("#single-testimonial-item").owlCarousel({
-        items: 1,
-        navigation: false, // Show next and prev buttons
+        items: 5,
+        navigation: true, // Show next and prev buttons
         slideSpeed: 300,
         paginationSpeed: 400,
         singleItem: true

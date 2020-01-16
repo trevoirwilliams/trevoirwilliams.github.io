@@ -5,7 +5,7 @@ subtitle: Learn to develop data driven web applications using PHP and MySQL, man
 image: /img/php-advanced-logo.png
 ---
 
-<div class="text-center">
+<div class="text-center jumbotron">
     <a href="http://bit.ly/2Y037Mb" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
     <a href="https://skl.sh/3897t8m" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
 </div>
@@ -21,32 +21,89 @@ PHP was designed to make web development easier, and many beginners find it effo
 </p>
 
 #### The top 5 reasons to learn PHP are:
-- Beginner Friendliness
-- Designed to Scale
-- Active Support Community 
-- Career Opportunities
-- Future 
+    <ul class="list-style check-list pl-0">
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Beginner Friendliness
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Active Support Community 
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Career Opportunities
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Future
+        </li>
+    </ul>
 
 #### What you'll learn
-- Setup Apache Server using XAMPP Server
-- Setup MySQL Database using XAMPP Server
-- Setup PHP Environment using XAMPP Server
-- Basic PHP Syntax
-- Understand the role of PHP in Web Based Programming Applications.
-- Build Data Driven and Dynamic Web Applications
-- How to manipulate data using PHP PDO
-- How to Use Bootstrap 4 Framework
-- How to Use GitHub for Source Control
-- How to Deploy a Web Application using Heroku
+    <ul class="list-style check-list pl-0">
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Setup Apache Server using XAMPP Server
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Setup MySQL Database using XAMPP Server
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Setup PHP Environment using XAMPP Server
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Basic PHP Syntax
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the role of PHP in Web Based Programming Applications
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Build Data Driven and Dynamic Web Applications
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> How to manipulate data using PHP PDO
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> How to Use Bootstrap 4 Framework
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> How to Use GitHub for Source Control
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> How to Deploy a Web Application using Heroku
+        </li>
+    </ul>
 
 #### Languages and Technologies Used:
-- PHP (HyperText Pre-Processor) - Server-Side Programming Language that allows us to build dynamic and data driven applications
-- HTML and CSS - Standard Web Languages used to design web pages
-- Visual Studio Code (With extensions) - Development tool or IDE to help us write code faster.
-- XAMPP Server - To facilitate Apache and MySQL Servers
-- PhpMyAdmin - MySQL Management Tool built into XAMPP Server
-- GitHub - For Source Control and collaboration
-- Heroku - For publishing website(s) PHP Application to the Cloud (Free with restrictions)
+    <ul class="list-style check-list pl-0">
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> PHP (HyperText Pre-Processor) - Server-Side Programming Language that allows us to build dynamic and data driven applications
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> HTML and CSS - Standard Web Languages used to design web pages
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Setup PHP Environment using XAMPP Server
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Basic PHP Syntax
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the role of PHP in Web Based Programming Applications
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Visual Studio Code (With extensions) - Development tool or IDE to help us write code faster
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> XAMPP Server - To facilitate Apache and MySQL Servers
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> PhpMyAdmin - MySQL Management Tool built into XAMPP Server
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> GitHub - For Source Control and collaboration
+        </li>
+        <li>
+        <i class="fa fa-check light-green" aria-hidden="true"></i> Heroku - For publishing website(s) PHP Application to the Cloud (Free with restrictions)
+        </li>
+    </ul>
+
 
 <p class="lead">
 NO other course on the market can equip you with these skills. Level up now and be a part of the modern PHP Developers' club!

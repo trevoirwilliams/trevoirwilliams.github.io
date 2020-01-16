@@ -11,26 +11,37 @@ comments: true
 {{page.sub-title}}
 
 <!--more-->
-
+<p class="lead">
 [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} is a code editor that is optimized for building and debugging modern web applications. It is open source and boasts a large community of developers who are constantly producing excellent extensions that increase productivity. 
-
+</p>
+<p class="lead">
 [Bootstrap 4](https://getbootstrap.com/){:target="_blank"} is the newest version of Bootstrap, which is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. 
+</p>
 
 ## Download Visual Studio Code
+<p class="lead">
 Proceed to [Download Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} and acquire the version that best suits your Operating System. The installation station is fairly straightforward and you can go ahead and click next until completion. 
+</p>
 
 ## Setup Web Project
-- Create a Folder on your desktop and call it *first-bootstrap-site*. It is always recommended that you avoid using spaces and most special characters (- and _ are allowed) when naming files and folders in web development.
-- Open Visual Studio Code (if not already open). Go to File -> Open Folder -> Find *first-bootstrap-site* on Desktop -> Select Folder
+<ul class="list-style arrow-list arrow-list-two pl-0">
+                  <li>
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> Create a Folder on your desktop and call it *first-bootstrap-site*. It is always recommended that you avoid using spaces and most special characters (- and _ are allowed) when naming files and folders in web development.
+                  </li>
+                  <li>
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> Open Visual Studio Code (if not already open). Go to File -> Open Folder -> Find *first-bootstrap-site* on Desktop -> Select Folder
+                  </li>
+                </ul>
 
 <div class="text-center">
-    <img src="/img/open-folder.png" alt="open-folder" style="width: 880px; height: 422px;"/>
+    <img src="/assets/images/open-folder.png" alt="open-folder" class="img-fluid">
 </div>
-
-- To the Left, you will see a Pane called *EXPLORER*. Under this Pane, go ahead and create a new file and name it *index.html*. Please note, every time you start a website, the first file almost always should have this filename. It will save you a lot of headaches and troubleshooting time in the future. 
+<p class="lead">
+To the Left, you will see a Pane called *EXPLORER*. Under this Pane, go ahead and create a new file and name it *index.html*. Please note, every time you start a website, the first file almost always should have this filename. It will save you a lot of headaches and troubleshooting time in the future. 
+</p>
 
 <div class="text-center">
-    <img src="/img/create-file.png" alt="create-file" style="width: 880px; height: 422px;"/>
+    <img src="/assets/images/create-file.png" alt="create-file" class="img-fluid"/>
 </div>
 
 ## Install Useful Extensions
@@ -41,7 +52,7 @@ From here we can search for the extensions we wish to install. Let us proceed to
 - Live Server - Ritwick Dey
 
 <div class="text-center">
-    <img src="/img/extensions-lists.png" alt="extension-list" style="width: 880px; height: 422px;"/>
+    <img src="/assets/images/extensions-lists.png" alt="extension-list" class="img-fluid"/>
 </div>
 
 ## Add Bootstrap to Our Page

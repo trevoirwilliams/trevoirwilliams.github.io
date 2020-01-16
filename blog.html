@@ -14,7 +14,7 @@ keywords: website, blog, lessons, tutorials
 {% for post in site.posts %}
 	  <div class="blog-block post-content-area">
 	   {% if post.img %}	  
-        <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image"></a>
+        <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
 	   {% endif %}	  
             <div class="blog-post">
               <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>

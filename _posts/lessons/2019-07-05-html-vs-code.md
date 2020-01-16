@@ -12,24 +12,24 @@ comments: true
 
 <!--more-->
 <p class="lead">
-[Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} is a code editor that is optimized for building and debugging modern web applications. It is open source and boasts a large community of developers who are constantly producing excellent extensions that increase productivity. 
+<a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code </a> is a code editor that is optimized for building and debugging modern web applications. It is open source and boasts a large community of developers who are constantly producing excellent extensions that increase productivity. 
 </p>
 <p class="lead">
-[Bootstrap 4](https://getbootstrap.com/){:target="_blank"} is the newest version of Bootstrap, which is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. 
+<a href="https://getbootstrap.com/" target="_blank">Bootstrap 4 </a> is the newest version of Bootstrap, which is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. 
 </p>
 
 ## Download Visual Studio Code
 <p class="lead">
-Proceed to [Download Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} and acquire the version that best suits your Operating System. The installation station is fairly straightforward and you can go ahead and click next until completion. 
+Proceed to <a href="https://code.visualstudio.com/download" target="_blank"> Download Visual Studio Code </a> and acquire the version that best suits your Operating System. The installation station is fairly straightforward and you can go ahead and click next until completion. 
 </p>
 
 ## Setup Web Project
 <ul class="list-style arrow-list arrow-list-two pl-0">
                   <li>
-                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> Create a Folder on your desktop and call it *first-bootstrap-site*. It is always recommended that you avoid using spaces and most special characters (- and _ are allowed) when naming files and folders in web development.
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> <p>Create a Folder on your desktop and call it *first-bootstrap-site*. It is always recommended that you avoid using spaces and most special characters (- and _ are allowed) when naming files and folders in web development.</p>
                   </li>
                   <li>
-                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> Open Visual Studio Code (if not already open). Go to File -> Open Folder -> Find *first-bootstrap-site* on Desktop -> Select Folder
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> <p>Open Visual Studio Code (if not already open). Go to File -> Open Folder -> Find *first-bootstrap-site* on Desktop -> Select Folder </p>
                   </li>
                 </ul>
 
@@ -48,8 +48,14 @@ To the Left, you will see a Pane called *EXPLORER*. Under this Pane, go ahead an
 Extensions exist to help us as developers move more quickly in our environment and get more done in less time. We can browse available extensions by visiting the Extensions pane to the left side of the IDE window. 
 
 From here we can search for the extensions we wish to install. Let us proceed to find and install the following plugins (you may be required to reload VS Code after installing each):
-- Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro Snippets - Ashok Koyi
-- Live Server - Ritwick Dey
+<ul class="list-style arrow-list arrow-list-two pl-0">
+                  <li>
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> <p>Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro Snippets - Ashok Koyi</p>
+                  </li>
+                  <li>
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> <p>Live Server - Ritwick Dey </p>
+                  </li>
+                </ul>
 
 <div class="text-center">
     <img src="/assets/images/extensions-lists.png" alt="extension-list" class="img-fluid"/>
@@ -84,6 +90,6 @@ This will launch your default browser and begin to display your newly created Bo
 ## Going Forward
 All pages that you create beyond this point, can be created using similar steps. You would have already installed your extensions and they will remain until you have either removed them, or removed Visual Studio Code altogether. 
 
-For the Full compliment of the Power of Bootstrap 4, you can check their official [website](https://getbootstrap.com/){:target="_blank"} 
+For the Full compliment of the Power of Bootstrap 4, you can check their official <a href="https://getbootstrap.com" target="_blank"> website </a>
 
 I hope you enjoyed this exercise. Have Fun!

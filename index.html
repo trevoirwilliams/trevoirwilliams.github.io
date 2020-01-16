@@ -217,7 +217,7 @@ keywords: home, landing, website, development
             </div>
 	    </div>
         <hr/>
-      
+      <br/>
       <!-- posts carousel -->
       <section id="blog">
         <!-- <div class="sub-title">
@@ -228,7 +228,7 @@ keywords: home, landing, website, development
            {% for post in site.posts %}     
             <div class="blog-block blog block carousel-post">
              {% if post.img %}           
-             <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt=""></a>
+             <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="Post Image"></a>
              {% endif %}           
               <h5><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
               <p>{{ post.excerpt }}</p>

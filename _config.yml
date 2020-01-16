@@ -149,3 +149,11 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+navbar-links:
+  About Me: "aboutme"
+  Online Courses:
+   - Microsoft SQL Server 2017 for Everyone!: "mssql-course"
+   - MySQL Database Development Mastery: "mysql-course"
+   - Learn ASP.Net MVC and Entity Framework (Database First): "mvc-db-course"
+   - Modern PHP Web Development w/ MySQL, GitHub & Bootstrap 4: "modern-php-course"
+   - Basic PHP Web Development Course: "php-basics-course"

@@ -6,16 +6,9 @@ img: php-logo.jpg
 tags: [php, pdo, mysql, database]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
-img2 : 
-img3 : 
 author : Trevoir Williams
-title2 : 
-title3 : 
-css: 
-js: 
 bgcolor: ff5a71
 keywords: php, pdo, mysql, database
-canonical: https://fullit.github.io
 ---
 {% include JB/setup %}
 

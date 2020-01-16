@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Modern PHP Web Development w/ MySQL, GitHub & Bootstrap 4
 subtitle: Learn to develop data driven web applications using PHP and MySQL, manage them with GitHub and deploy to Heroku
 img: php-advanced-logo.png

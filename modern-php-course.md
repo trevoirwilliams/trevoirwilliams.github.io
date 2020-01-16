@@ -36,39 +36,7 @@ PHP was designed to make web development easier, and many beginners find it effo
     </li>
 </ul>
 
-#### What you'll learn
-<ul class="list-style check-list pl-0">
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> Setup Apache Server using XAMPP Server
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> Setup MySQL Database using XAMPP Server
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> Setup PHP Environment using XAMPP Server
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> Basic PHP Syntax
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the role of PHP in Web Based Programming Applications
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> Build Data Driven and Dynamic Web Applications
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> How to manipulate data using PHP PDO
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> How to Use Bootstrap 4 Framework
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> How to Use GitHub for Source Control
-    </li>
-    <li>
-    <i class="fa fa-check light-green" aria-hidden="true"></i> How to Deploy a Web Application using Heroku
-    </li>
-</ul>
+This course is practical and will equip you with all you need to build a fully functional web application, add it to source control using GitHub and finally, host it on Heroku. 
 
 #### Languages and Technologies Used:
 <ul class="list-style check-list pl-0">
@@ -110,25 +78,69 @@ NO other course on the market can equip you with these skills. Level up now and 
 </p>
 
 #### At the end of this course, you should be able to:
-- Build a fully data driven web application
-- Understand the PHP Application Flow 
-- Create and manage databases with phpMyAdmin and MySQL Workbench
-- Create PHP/MySQL queries with PDO
-- Setup User Authentication and Authorization
-- Use Bootstrap 4 CSS Framework
-- Use JQuery and JQueryUI
-- Use Visual Studio Code Efficiently
-- Deploy using Heroku Hosting
-- Manage Projects with GitHub
+<ul class="list-style check-list pl-0">
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Build a fully data driven web application
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the PHP Application Flow     </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Create and manage databases with phpMyAdmin and MySQL Workbench    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Basic PHP Syntax    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Create PHP/MySQL queries with PDO    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Setup User Authentication and Authorization    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Use Bootstrap 4 CSS Framework    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Use JQuery and JQueryUI    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Deploy using Heroku Hosting    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Manage Projects with GitHub    </li>
+</ul>
+ 
+ #### Content and Overview
+
+To feel comfortable in this course, you will need some prior knowledge of HTML and CSS. Beyond that, it is very beginner friendly, as we go through different programming structures using PHP. Even if you have no exposure to any web development, you will be able to follow along from scratch.  
+
+This is a huge course. Over 10 hours of premium content, but smartly broken up to highlight a set of related activities based on each feature in the application that is being built. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.
+
+By the time you have finished the course you will have moved around in Visual Studio Code, XAMPP, GitHub and MySQL, that it will become second nature for you when working on a future PHP project. This will put your new learned skills into practical use and impress your boss and coworkers.
+
+The course is complete with working files hosted on GitHub, with the inclusion of some files to make it easier for you to replicate the code being demonstrated. You will be able to work alongside the author as you work through each lecture and will receive a verifiable certificate of completion upon finishing the course.
+
+Clicking the Take This Course button could be the best step you could take towards quickly increasing your income and marketability! Also, remember that if you don't think the course is worth what you spent, you have a full 30 days to get a no questions asked refund!
 
 #### Are there any course requirements or prerequisites?
-- A computer
-- An Internet Connection
-- An email address
+<ul class="list-style check-list pl-0">
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i>  A computer
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> An Internet Connection     </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> An email address   </li>
+</ul>
 
 #### Who this course is for:
-- Everyone
-- Web Developers who know HTML and CSS
-- Web Developers without PHP Experience
-- Beginner PHP Developers
+<ul class="list-style check-list pl-0">
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i>  Web Developers who know HTML and CSS </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Web Developers without PHP Experience     </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Beginner PHP Developers   </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Everyone   </li>
+</ul>
 
+It's time to take action! This deal will not be available forever!
+
+Click the "Buy Now" button Today!
+
+Every hour you delay is costing you money...
+
+See you in the course!

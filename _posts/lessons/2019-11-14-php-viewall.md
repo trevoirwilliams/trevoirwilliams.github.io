@@ -22,7 +22,7 @@ In this lesson, we modify our PHP application to allow us to see a list of all p
 <div class="embed-responsive embed-responsive-16by9">
   <iframe  src="https://www.youtube.com/embed/cWU9r3WgXFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<br/>
 If you liked this video and would like to see some more lessons, please subscribe to my [YouTube Channel](http://bit.ly/2JlTIs4) and/or leave a comment below.
 
 

@@ -18,7 +18,7 @@ In the following video, we:
 - Start building a PHP application on our local Apache (XAMPP)server 
 - Setup a project/folder structure and website layout with Bootstrap 4 
 
-<div class="well embed-container">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe  src="https://www.youtube.com/embed/tbi8wNttzs4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

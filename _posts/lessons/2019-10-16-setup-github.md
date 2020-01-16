@@ -16,7 +16,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 In the following video, I walk you through creating a new account, using Git commands to push a PHP application to a repository (GitHub code space) and how to use their desktop client. 
 
-<div class="well embed-container">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe  src="https://www.youtube.com/embed/0E20ILr5yHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

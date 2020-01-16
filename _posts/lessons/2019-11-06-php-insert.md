@@ -16,7 +16,7 @@ In our [previous lesson](https://trevoirwilliams.github.io/2019-11-05-php-pdo/),
 
 In this lesson, we modify our PHP form and action page to forward any submitted data from the form, to our database. 
 
-<div class="well embed-container">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe  src="https://www.youtube.com/embed/CQNIFDdaF1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

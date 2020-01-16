@@ -16,7 +16,7 @@ In our [previous lesson](https://trevoirwilliams.github.io/2019-10-30-php-post/)
 
 In this lesson, we begin to design a database that will have the tables we need to store the records that are being submitted. A database will allow us to persist our data. This way, we can view, update and delete this data at will at a later date.   
 
-<div class="well embed-container">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe  src="https://www.youtube.com/embed/rvEsO9b3p0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

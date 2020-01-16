@@ -21,7 +21,7 @@ M - MySQL (recently MariaDB)<br/>
 P - PHP (sometimes Perl)<br/>
 
 XAMPP gives us an all-in-one installer for this stack (X meaning it's available on other operating systems). 
-<div class="well embed-container">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe  src="https://www.youtube.com/embed/P6DV1nTH8kU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

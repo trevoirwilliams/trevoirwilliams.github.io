@@ -16,7 +16,7 @@ Visual Studio Code is a code editor redefined and optimized for building and deb
 
 Visual Studio Code can be optimized for almost any type of development stack with PHP being no exception. The secret to it's versatility lies in extensions. In the following video, we install Visual Studio Code and some extensions that will help us with our PHP development. 
 
-<div class="well embed-container">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe  src="https://www.youtube.com/embed/iUPeGVi_uwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

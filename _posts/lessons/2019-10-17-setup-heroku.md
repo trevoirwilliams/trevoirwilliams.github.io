@@ -16,7 +16,7 @@ Heroku is a platform as a service (PaaS) that enables developers to build, run, 
 
 In the following video we Create a Heroku (free) Account and App, then deploy our PHP application from a GitHub Repository. 
 
-<div class="well embed-container">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe  src="https://www.youtube.com/embed/0E20ILr5yHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

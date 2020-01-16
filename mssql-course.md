@@ -77,8 +77,3 @@ Clicking the Take This Course button could be the best step you could take towar
 
 It's time to take action! This deal will not be available forever!
 
-Click the "Buy Now" button Today!
-
-Every hour you delay is costing you money...
-
-See you in the course!

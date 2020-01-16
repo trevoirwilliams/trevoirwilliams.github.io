@@ -4,8 +4,10 @@ title: MySQL Database Development Mastery
 subtitle: Learn fundamental Database Development techniques with MySQL Server and MySQL Workbench
 image: /img/sqlvnosql.jpg
 ---
-
-| [Udemy - Discount Coupon!](http://bit.ly/2MuFlnr){:target="_blank"} | [Uthena](http://bit.ly/3473wOG){:target="_blank"} | [Skillshare - 2 Months Free Premium Membership](https://skl.sh/2Y2M8uN){:target="_blank"} |
+<div class="text-center jumbotron">
+    <a href="http://bit.ly/2MuFlnr" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2Y2M8uN" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+</div>
 
 #### Overview
 This is a zero to hero course on MySQL Database Server and MySQL Workbench. There are no pre-requisites for this course. If you are looking to get acquainted with the concept of Databases and Queries then this is the right course for you.
@@ -43,5 +45,3 @@ At the end of this course, you should be comfortable writing queries for multipl
 - This course is for you if you feel a bit 'rusty' and need to refresh your knowledge.
 - This course is for you if you want to understand design principles in database development.
 - This course is for you if you are looking to learn a new Database Management System
-
-| [Udemy - Discount Coupon!](http://bit.ly/2MuFlnr){:target="_blank"} | [Uthena](http://bit.ly/3473wOG){:target="_blank"} | [Skillshare - 2 Months Free Premium Membership](https://skl.sh/2Y2M8uN){:target="_blank"} |

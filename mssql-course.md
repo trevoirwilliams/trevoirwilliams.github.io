@@ -5,7 +5,10 @@ subtitle: Learn the fundamentals of database design, development and querying us
 image: /img/sql-course.jpg
 ---
 
-| [Udemy - Discount Coupon!](http://bit.ly/2J3Shya){:target="_blank"} | [Uthena](http://bit.ly/31JE7ZK){:target="_blank"} | [Skillshare - 2 Months Free Premium Membership](https://skl.sh/2PUgPfs){:target="_blank"} |
+<div class="text-center jumbotron">
+    <a href="http://bit.ly/2J3Shya" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2PUgPfs" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+</div>
 
 #### Overview
 This is a zero to hero course on Microsoft SQL Databases and Querying. There are no pre-requisites for this course. If you are looking to get acquainted with the concept of Databases and Queries then this is the right course for you. 
@@ -42,5 +45,3 @@ At the end of this course, you should be comfortable writing queries for multipl
 - This course is for you if you feel a bit 'rusty' and need to refresh your knowledge.
 - This course is for you if you want to understand design principles in database development.
 - This course is for you if you are proficient in Microsoft Access and want to learn a new Database Management System
-
-| [Udemy - Discount Coupon!](http://bit.ly/2J3Shya){:target="_blank"} | [Uthena](http://bit.ly/31JE7ZK){:target="_blank"} | [Skillshare - 2 Months Free Premium Membership](https://skl.sh/2PUgPfs){:target="_blank"} |

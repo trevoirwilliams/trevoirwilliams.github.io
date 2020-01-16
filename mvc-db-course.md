@@ -5,7 +5,10 @@ subtitle: Learn how to develop a school management system using MVC and Entity F
 image: /img/programming.png
 ---
 
-| [Udemy - Discount Coupon!](http://bit.ly/31oRG0j){:target="_blank"} |[Uthena](http://bit.ly/2JrE7XZ){:target="_blank"} | [Skillshare - 2 Months Free Premium Membership](https://skl.sh/2GRPjep){:target="_blank"} |
+<div class="text-center jumbotron">
+    <a href="http://bit.ly/31oRG0j" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2GRPjep" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+</div>
 
 #### Overview
 Using MVC, Entity Framework, and ASP.NET Scaffolding, we will go through building a small school management system while learning key concepts in ASP.NET MVC development. This course will show you how to leverage MVC's Scaffolding features to quickly construct data driven html pages and how to write queries to the database using .NET's famed Entity Framework with C#. 
@@ -31,5 +34,3 @@ In this course, you will also learn how to use Javascript, JQuery and JQueryUI a
 - Upload a project to GitHub
 - Manage Packages in an MVC Project
 - User JQuery and tools to increase interactivity and animations on the interface.
-
-| [Udemy - Discount Coupon!](http://bit.ly/31oRG0j){:target="_blank"} |[Uthena](http://bit.ly/2JrE7XZ){:target="_blank"} | [Skillshare - 2 Months Free Premium Membership](https://skl.sh/2GRPjep){:target="_blank"} |

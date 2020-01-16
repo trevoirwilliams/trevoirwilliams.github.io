@@ -4,6 +4,10 @@ title: PHP Development with Bootstrap, GitHub and Heroku
 subtitle: A free course on how to setup a PHP environment; build a PHP website; style with Bootstrap 4; add a project to source control and later deploy to Heroku. 
 image: /img/php-logo.jpg
 ---
+<div class="text-center jumbotron">
+    <a href="http://bit.ly/2MuFlnr" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2Y2M8uN" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+</div>
 
 <div>
     <h1 class="text-center text-primary">Free PHP Web Development Course </h1>

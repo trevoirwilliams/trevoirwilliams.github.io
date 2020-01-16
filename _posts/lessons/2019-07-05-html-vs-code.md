@@ -20,16 +20,16 @@ comments: true
 
 ## Download Visual Studio Code
 <p class="lead">
-Proceed to <a href="https://code.visualstudio.com/download" target="_blank"> Download Visual Studio Code </a> and acquire the version that best suits your Operating System. The installation station is fairly straightforward and you can go ahead and click next until completion. 
+Proceed to <a href="https://code.visualstudio.com/download" target="_blank">Download Visual Studio Code </a> and acquire the version that best suits your Operating System. The installation station is fairly straightforward and you can go ahead and click next until completion. 
 </p>
 
 ## Setup Web Project
 <ul class="list-style arrow-list arrow-list-two pl-0">
                   <li>
-                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> <p>Create a Folder on your desktop and call it *first-bootstrap-site*. It is always recommended that you avoid using spaces and most special characters (- and _ are allowed) when naming files and folders in web development.</p>
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> Create a Folder on your desktop and call it *first-bootstrap-site*. It is always recommended that you avoid using spaces and most special characters (- and _ are allowed) when naming files and folders in web development.
                   </li>
                   <li>
-                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> <p>Open Visual Studio Code (if not already open). Go to File -> Open Folder -> Find *first-bootstrap-site* on Desktop -> Select Folder </p>
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> Open Visual Studio Code (if not already open). Go to File -> Open Folder -> Find *first-bootstrap-site* on Desktop -> Select Folder
                   </li>
                 </ul>
 
@@ -50,10 +50,12 @@ Extensions exist to help us as developers move more quickly in our environment a
 From here we can search for the extensions we wish to install. Let us proceed to find and install the following plugins (you may be required to reload VS Code after installing each):
 <ul class="list-style arrow-list arrow-list-two pl-0">
                   <li>
-                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> <p>Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro Snippets - Ashok Koyi</p>
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i>  Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro Snippets - Ashok Koyi
+
                   </li>
                   <li>
-                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i> <p>Live Server - Ritwick Dey </p>
+                    <i class="fa fa-angle-double-right grey" aria-hidden="true"></i>  Live Server - Ritwick Dey
+
                   </li>
                 </ul>
 
@@ -90,6 +92,6 @@ This will launch your default browser and begin to display your newly created Bo
 ## Going Forward
 All pages that you create beyond this point, can be created using similar steps. You would have already installed your extensions and they will remain until you have either removed them, or removed Visual Studio Code altogether. 
 
-For the Full compliment of the Power of Bootstrap 4, you can check their official <a href="https://getbootstrap.com" target="_blank"> website </a>
+For the Full compliment of the Power of Bootstrap 4, you can check their official <a href="https://getbootstrap.com/" target="_blank">website </a>  
 
 I hope you enjoyed this exercise. Have Fun!

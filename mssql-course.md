@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: post
 title: Microsoft SQL Server 2017 for Everyone!
 subtitle: Learn the fundamentals of database design, development and querying using Microsoft SQL Server 2017
-image: /img/sql-course.jpg
+image: sql-course.jpg
 ---
 
 <div class="text-center jumbotron">
-    <a href="http://bit.ly/2J3Shya" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2PUgPfs" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+    <a href="http://bit.ly/2J3Shya" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2PUgPfs" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a>
 </div>
 
 #### Overview

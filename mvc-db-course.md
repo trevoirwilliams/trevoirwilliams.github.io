@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: post
 title: Learn ASP.Net MVC and Entity Framework (Database First)
 subtitle: Learn how to develop a school management system using MVC and Entity Framework.
-image: /img/programming.png
+img: web-dev.jpg
 ---
 
 <div class="text-center jumbotron">
-    <a href="http://bit.ly/31oRG0j" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2GRPjep" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+    <a href="http://bit.ly/31oRG0j" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2GRPjep" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a>
 </div>
 
 #### Overview

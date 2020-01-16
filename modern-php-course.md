@@ -21,88 +21,88 @@ PHP was designed to make web development easier, and many beginners find it effo
 </p>
 
 #### The top 5 reasons to learn PHP are:
-    <ul class="list-style check-list pl-0">
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Beginner Friendliness
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Active Support Community 
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Career Opportunities
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Future
-        </li>
-    </ul>
+<ul class="list-style check-list pl-0">
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Beginner Friendliness
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Active Support Community 
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Career Opportunities
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Future
+    </li>
+</ul>
 
 #### What you'll learn
-    <ul class="list-style check-list pl-0">
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Setup Apache Server using XAMPP Server
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Setup MySQL Database using XAMPP Server
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Setup PHP Environment using XAMPP Server
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Basic PHP Syntax
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the role of PHP in Web Based Programming Applications
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Build Data Driven and Dynamic Web Applications
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> How to manipulate data using PHP PDO
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> How to Use Bootstrap 4 Framework
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> How to Use GitHub for Source Control
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> How to Deploy a Web Application using Heroku
-        </li>
-    </ul>
+<ul class="list-style check-list pl-0">
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Setup Apache Server using XAMPP Server
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Setup MySQL Database using XAMPP Server
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Setup PHP Environment using XAMPP Server
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Basic PHP Syntax
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the role of PHP in Web Based Programming Applications
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Build Data Driven and Dynamic Web Applications
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> How to manipulate data using PHP PDO
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> How to Use Bootstrap 4 Framework
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> How to Use GitHub for Source Control
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> How to Deploy a Web Application using Heroku
+    </li>
+</ul>
 
 #### Languages and Technologies Used:
-    <ul class="list-style check-list pl-0">
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> PHP (HyperText Pre-Processor) - Server-Side Programming Language that allows us to build dynamic and data driven applications
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> HTML and CSS - Standard Web Languages used to design web pages
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Setup PHP Environment using XAMPP Server
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Basic PHP Syntax
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the role of PHP in Web Based Programming Applications
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Visual Studio Code (With extensions) - Development tool or IDE to help us write code faster
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> XAMPP Server - To facilitate Apache and MySQL Servers
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> PhpMyAdmin - MySQL Management Tool built into XAMPP Server
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> GitHub - For Source Control and collaboration
-        </li>
-        <li>
-        <i class="fa fa-check light-green" aria-hidden="true"></i> Heroku - For publishing website(s) PHP Application to the Cloud (Free with restrictions)
-        </li>
-    </ul>
+<ul class="list-style check-list pl-0">
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> PHP (HyperText Pre-Processor) - Server-Side Programming Language that allows us to build dynamic and data driven applications
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> HTML and CSS - Standard Web Languages used to design web pages
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Setup PHP Environment using XAMPP Server
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Basic PHP Syntax
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Understand the role of PHP in Web Based Programming Applications
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Visual Studio Code (With extensions) - Development tool or IDE to help us write code faster
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> XAMPP Server - To facilitate Apache and MySQL Servers
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> PhpMyAdmin - MySQL Management Tool built into XAMPP Server
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> GitHub - For Source Control and collaboration
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Heroku - For publishing website(s) PHP Application to the Cloud (Free with restrictions)
+    </li>
+</ul>
 
 
 <p class="lead">

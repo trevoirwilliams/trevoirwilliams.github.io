@@ -12,6 +12,7 @@ baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
+image: https://trevoirwilliams.github.io/assets/images/programming.png
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
@@ -22,7 +23,7 @@ post_limit: 5
 
 
 title: Trevoir Williams Dot Com...
-tagline: My Personal Blog
+tagline: Personal Blog | Tutorial Website
 author : 
   name : Trevoir Williams
   site: https://trevoirwilliams.github.io
@@ -157,3 +158,4 @@ navbar-links:
    - Learn ASP.Net MVC and Entity Framework (Database First): "mvc-db-course"
    - Modern PHP Web Development w/ MySQL, GitHub & Bootstrap 4: "modern-php-course"
    - Basic PHP Web Development Course: "php-basics-course"
+   

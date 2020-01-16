@@ -2,7 +2,7 @@
 layout: post
 title: Microsoft SQL Server 2017 for Everyone!
 subtitle: Learn the fundamentals of database design, development and querying using Microsoft SQL Server 2017
-image: sql-course.jpg
+img: sql-course.jpg
 ---
 
 <div class="text-center jumbotron">

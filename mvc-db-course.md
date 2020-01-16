@@ -47,7 +47,6 @@ In this course, you will also learn how to use Javascript, JQuery and JQueryUI a
 </ul>
 
 #### Content and Overview
-
 To take this course, you will need to have some knowledge of Object Oriented Programming, if not C#. Even if you do not have much exposure to the .NET development stack, this course is very beginner friendly and chock full of development tips. 
 
 This is a huge course. Over 5 hours of premium content, but smartly broken up to highlight a set of related activities based on each module in the application that is being built. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.

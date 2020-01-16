@@ -103,7 +103,6 @@ NO other course on the market can equip you with these skills. Level up now and 
 </ul>
  
  #### Content and Overview
-
 To feel comfortable in this course, you will need some prior knowledge of HTML and CSS. Beyond that, it is very beginner friendly, as we go through different programming structures using PHP. Even if you have no exposure to any web development, you will be able to follow along from scratch.  
 
 This is a huge course. Over 10 hours of premium content, but smartly broken up to highlight a set of related activities based on each feature in the application that is being built. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.

@@ -67,7 +67,6 @@ At the end of this course, you should be comfortable writing queries for multipl
 </ul>
 
 #### Content and Overview
-
 This is a complete course. Over 5 hours of premium content, all put together to ensure that you get up and running with becoming a Database Developer and/or Administrator. I take you through various scenarios and techniques to write queries, build a database and further administrate, then we touch more advanced topics that are in great demand in the workplace. 
 
 By the time you have finished the course you will have moved around in Microsoft SQL Manager Studio so much, that it will become second nature for you when interacting with your databases, found on different servers. This will put your new learned skills into practical use and impress your boss and coworkers.

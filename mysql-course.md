@@ -69,7 +69,6 @@ At the end of this course, you should be comfortable writing queries for multipl
 </ul>
 
 #### Content and Overview
-
 This is a complete course. Over 5 hours of premium content, all put together to ensure that you get up and running with becoming a Database Developer. I take you through various scenarios and techniques to write queries, build a database and further administrate. 
 
 By the time you have finished the course you will have moved around in MySQL Workbench so much, that it will become second nature for you when building a MySQL Database. This will put your new learned skills into practical use and impress your boss and coworkers.

@@ -21,7 +21,7 @@ All you need is a windows machine and we will walk through setting up an environ
 
 At the end of this course, you should be comfortable writing queries for multiple situations and reports.
 
- #### What you’ll learn
+#### What you’ll learn
  <ul class="list-style check-list pl-0">
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Install MySQL Server </li>

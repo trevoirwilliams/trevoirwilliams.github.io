@@ -11,14 +11,10 @@ image: /img/php-advanced-logo.png
 </div>
 
 #### Overview
-<p class="lead">
 This course is designed to equip students with the skills required for creating dynamic web pages using PHP and MySQL. It further equips students with the fundamentals of PHP programming, while providing them with advanced features of the language. Immerse yourself in an end-to-end full-stack development experience, as we explore user interface design, business logic and hosting activities. By the end of this course, you will be able to build an attractive PHP application and host it for for future clients. 
-</p>
 
 #### Why Learn Development with PHP 
-<p class="lead">
 PHP was designed to make web development easier, and many beginners find it effortless to grasp and get started with. In fact, PHP code was so easy to learn, many non-programmers end up being able to write PHP application in no time! 
-</p>
 
 #### Top reasons to learn PHP are:
 <ul class="list-style check-list pl-0">
@@ -102,7 +98,7 @@ NO other course on the market can equip you with these skills. Level up now and 
     <i class="fa fa-check light-green" aria-hidden="true"></i> Manage Projects with GitHub    </li>
 </ul>
  
- #### Content and Overview
+#### Content and Overview
 To feel comfortable in this course, you will need some prior knowledge of HTML and CSS. Beyond that, it is very beginner friendly, as we go through different programming structures using PHP. Even if you have no exposure to any web development, you will be able to follow along from scratch.  
 
 This is a huge course. Over 10 hours of premium content, but smartly broken up to highlight a set of related activities based on each feature in the application that is being built. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.

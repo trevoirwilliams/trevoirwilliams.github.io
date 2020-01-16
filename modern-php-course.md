@@ -20,7 +20,7 @@ This course is designed to equip students with the skills required for creating 
 PHP was designed to make web development easier, and many beginners find it effortless to grasp and get started with. In fact, PHP code was so easy to learn, many non-programmers end up being able to write PHP application in no time! 
 </p>
 
-#### The top 5 reasons to learn PHP are:
+#### Top reasons to learn PHP are:
 <ul class="list-style check-list pl-0">
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Beginner Friendliness

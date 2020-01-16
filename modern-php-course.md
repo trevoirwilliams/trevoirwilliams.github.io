@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: page
 title: Modern PHP Web Development w/ MySQL, GitHub & Bootstrap 4
 subtitle: Learn to develop data driven web applications using PHP and MySQL, manage them with GitHub and deploy to Heroku
-image: /img/php-advanced-logo.png
+img: php-advanced-logo.png
 ---
 
 <div class="text-center jumbotron">
-    <a href="http://bit.ly/2Y037Mb" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/3897t8m" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+    <a href="http://bit.ly/2Y037Mb" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/3897t8m" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a>
 </div>
 
 #### Overview

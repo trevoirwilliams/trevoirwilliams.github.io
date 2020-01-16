@@ -12,6 +12,7 @@ image: /img/sqlvnosql.jpg
 #### Overview
 This is a zero to hero course on MySQL Database Server and MySQL Workbench. There are no pre-requisites for this course. If you are looking to get acquainted with the concept of Databases and Queries then this is the right course for you.
 
+
 #### Why Learn MySQL
 MySQL is the world’s most popular open source database. With its proven performance, reliability, and ease-of-use, MySQL has become the leading database choice for web-based applications, used by high profile web properties including Facebook, Twitter and YouTube.
 
@@ -20,6 +21,7 @@ We will explore best practices in database development using MySQL Database Serv
 All you need is a windows machine and we will walk through setting up an environment, to creating a database, creating your first table and writing queries.
 
 At the end of this course, you should be comfortable writing queries for multiple situations and reports.
+
 
 #### What you’ll learn
  <ul class="list-style check-list pl-0">
@@ -47,12 +49,13 @@ At the end of this course, you should be comfortable writing queries for multipl
     <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Practical use of SQL </li>
 </ul>
 
+
 #### Are there any course requirements or prerequisites?
  <ul class="list-style check-list pl-0">
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> A Windows PC (or Windows running on a Virtual Machine if using Linux/Mac) </li>
 </ul>
-- 
+
 
 #### Who this course is for:
  <ul class="list-style check-list pl-0">
@@ -67,6 +70,7 @@ At the end of this course, you should be comfortable writing queries for multipl
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> This course is for you if you are looking to learn a new Database Management System </li>
 </ul>
+
 
 #### Content and Overview
 This is a complete course. Over 5 hours of premium content, all put together to ensure that you get up and running with becoming a Database Developer. I take you through various scenarios and techniques to write queries, build a database and further administrate. 

@@ -13,6 +13,7 @@ image: /img/sql-course.jpg
 #### Overview
 This is a zero to hero course on Microsoft SQL Databases and Querying. There are no pre-requisites for this course. If you are looking to get acquainted with the concept of Databases and Queries then this is the right course for you. 
 
+
 #### Why Learn Microsoft SQL Server
 Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server, it is a software product with the primary function of storing and retrieving data as requested by other software applications
 
@@ -21,6 +22,7 @@ We will explore best practices in database development using SQL Server Express 
 All you need is a windows machine and we will walk through setting up an environment, to creating a database, creating your first table and writing queries. 
 
 At the end of this course, you should be comfortable writing queries for multiple situations and reports. 
+
 
 #### What you’ll learn
 <ul class="list-style check-list pl-0">
@@ -65,6 +67,7 @@ At the end of this course, you should be comfortable writing queries for multipl
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> This course is for you if you are proficient in Microsoft Access and want to learn a new Database Management System </li>
 </ul>
+
 
 #### Content and Overview
 This is a complete course. Over 5 hours of premium content, all put together to ensure that you get up and running with becoming a Database Developer and/or Administrator. I take you through various scenarios and techniques to write queries, build a database and further administrate, then we touch more advanced topics that are in great demand in the workplace. 

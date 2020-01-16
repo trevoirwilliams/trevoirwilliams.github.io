@@ -13,8 +13,10 @@ image: /img/php-advanced-logo.png
 #### Overview
 This course is designed to equip students with the skills required for creating dynamic web pages using PHP and MySQL. It further equips students with the fundamentals of PHP programming, while providing them with advanced features of the language. Immerse yourself in an end-to-end full-stack development experience, as we explore user interface design, business logic and hosting activities. By the end of this course, you will be able to build an attractive PHP application and host it for for future clients. 
 
+
 #### Why Learn Development with PHP 
 PHP was designed to make web development easier, and many beginners find it effortless to grasp and get started with. In fact, PHP code was so easy to learn, many non-programmers end up being able to write PHP application in no time! 
+
 
 #### Top reasons to learn PHP are:
 <ul class="list-style check-list pl-0">
@@ -33,6 +35,7 @@ PHP was designed to make web development easier, and many beginners find it effo
 </ul>
 
 This course is practical and will equip you with all you need to build a fully functional web application, add it to source control using GitHub and finally, host it on Heroku. 
+
 
 #### Languages and Technologies Used:
 <ul class="list-style check-list pl-0">
@@ -69,9 +72,8 @@ This course is practical and will equip you with all you need to build a fully f
 </ul>
 
 
-<p class="lead">
 NO other course on the market can equip you with these skills. Level up now and be a part of the modern PHP Developers' club!
-</p>
+
 
 #### At the end of this course, you should be able to:
 <ul class="list-style check-list pl-0">
@@ -97,6 +99,7 @@ NO other course on the market can equip you with these skills. Level up now and 
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Manage Projects with GitHub    </li>
 </ul>
+
  
 #### Content and Overview
 To feel comfortable in this course, you will need some prior knowledge of HTML and CSS. Beyond that, it is very beginner friendly, as we go through different programming structures using PHP. Even if you have no exposure to any web development, you will be able to follow along from scratch.  

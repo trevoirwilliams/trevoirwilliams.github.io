@@ -30,7 +30,13 @@
     
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.tagline }}">
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image }}" />
+    {% elsif page.img %}
+    <meta property="og:image" content="{{ page.img }}" />
+    {% else %}
     <meta property="og:image" content="{{ site.image }}">
+    {% endif %}
     <meta property="og:url" content="{{ BASE_PATH }}">
     <meta name="twitter:card" content="summary_large_image">
 
@@ -43,11 +49,15 @@
     <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
     {% endif %}
     {% if page.image %}
-    <meta property="og:image" content="{{ site.image }}" />
+    <meta property="og:image" content="{{ page.image }}" />
+    {% elsif page.img %}
+    <meta property="og:image" content="{{ page.img }}" />
     {% elsif page.share-img %}
     <meta property="og:image" content="{{ page.share-img }}" />
     {% else site.avatar %}
     <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
+    {% else %}
+    <meta property="og:image" content="{{ site.image }}" />
     {% endif %}
 
 	<!--[if IE]>

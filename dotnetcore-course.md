@@ -6,7 +6,7 @@ img: laptop-code.jpg
 ---
 {:.message-box .alert-success}
 **FREE FOR LIMITED TIME ONLY alert success** 
-For A Limited TIme, This course is being offered for Free on <a href="http://bit.ly/30oniUV" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy</a>. Enroll now and begin learning a new skill!
+For A Limited TIme, This course is being offered for Free on <a href="http://bit.ly/30oniUV" target="_blank">Udemy</a>. <br/>Enroll now and begin learning a new skill!
 
 <div class="text-center jumbotron">
     <a href="http://bit.ly/30oniUV" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>

@@ -34,7 +34,7 @@
     <meta property="og:image" content="{{ page.image }}" />
     {% elsif page.img %}
     <meta property="og:image" content="{{ page.img }}" />
-    {% else %}
+    {% elsif site.image %}
     <meta property="og:image" content="{{ site.image }}">
     {% endif %}
     <meta property="og:url" content="{{ page.url | absolute_url }}">

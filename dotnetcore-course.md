@@ -5,8 +5,8 @@ subtitle: Learn ASP.NET Core 3.1 and Entity Framework by building a practical Em
 img: laptop-code.jpg
 ---
 {:.message-box .alert-success}
-**FREE FOR LIMITED TIME ONLY alert success** 
-For A Limited TIme, This course is being offered for Free on <a href="http://bit.ly/30oniUV" target="_blank">Udemy</a>. <br/>Enroll now and begin learning a new skill!
+**FREE FOR LIMITED TIME ONLY **  <br/>
+For A Limited TIme, This course is being offered for Free, Enroll now and begin learning a new skill!
 
 <div class="text-center jumbotron">
     <a href="http://bit.ly/30oniUV" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>

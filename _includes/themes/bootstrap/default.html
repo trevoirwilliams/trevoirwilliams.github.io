@@ -114,7 +114,26 @@
 	<!--Custom script loaded by children page-->
 	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
 
-
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Personal Website",
+      "name" : "Trevoir Williams",
+     "url" : "https://trevoirwilliams.github.io",
+     "sameAs" : [
+       "https://twitter.com/trevoirwilliams",
+       "https://www.facebook.com/trevoirwilliams",
+       "https://www.instagram.com/trevthetrevwill"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "123 Example Street",
+        "addressRegion": "CA",
+        "postalCode": "000",
+        "addressCountry": "JM"
+      }
+    }
+    </script>
 	  
   </body>
 </html>

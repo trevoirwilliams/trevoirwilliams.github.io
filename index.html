@@ -107,7 +107,7 @@ keywords: home, landing, website, development
                       He is a very good instructor. I like how I can understand him very well. I am interested in more courses from this one! <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
                     </blockquote>
                     <div class="testimonial-images">
-                      <img class="img-circle text-md-center" src="{{ BASE_PATH }}/assets/images/web-dev.jpg" alt="">
+                      <img class="img-circle text-md-center" src="{{ BASE_PATH }}/assets/images/rest-api-pic.jpg" alt="">
                     </div>
                     <div class="testimonial-footer">
                       <i class="fa fa-user"></i> Antonio Sheppard <br/>
@@ -160,7 +160,7 @@ keywords: home, landing, website, development
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="featured-img img-thumbnail">
-                  <img src="{{ BASE_PATH }}/assets/images/web-dev.jpg" alt="">
+                  <img src="{{ BASE_PATH }}/assets/images/rest-api-pic.jpg" alt="">
                   <div class="featured-content">
                     <h4>Learn ASP.Net MVC and Entity Framework (Database First)</h4>
                     <div class="alert alert-warning text-center" role="alert">
@@ -209,9 +209,9 @@ keywords: home, landing, website, development
                   <div class="featured-content">
                     <h4>Complete ASP.Net Core 3.1 and Entity Framework </h4>
                     <div class="alert alert-success text-center" role="alert">
-                      Free
+                      Free - For Limited Time ONLY!
                     </div>
-                    <p>Learn ASP.NET Core 3.1 and Entity Framework.</p>
+                    <p>Learn End To End ASP.NET Core 3.1 and Entity Framework Development.</p>
                     <a href="http://bit.ly/30oniUV" target="_blank"  class="btn btn-info btn-block">Udemy</a>
                     <a href="https://skl.sh/2TjAJ7f" target="_blank"  class="btn btn-info btn-block">Skillshare</a>
                     <a href="{{ BASE_PATH }}/dotnetcore-course" class="btn std-btn btn-filled btn-block">Read More</a>
@@ -233,7 +233,7 @@ keywords: home, landing, website, development
              <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="Post Image"></a>
              {% endif %}           
               <h5><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
-              <p>{{ post.excerpt }}</p>
+              <p>{{ post.excerpt | truncate: 50 }}</p>
               <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
            {% endfor %}     
@@ -254,7 +254,7 @@ keywords: home, landing, website, development
         </div>
 	</div>
 
-            
+{}            
             
 <!-- Content area end -->
 </div>

@@ -15,7 +15,7 @@ For A Limited TIme, This course is being offered for Free, Enroll now and begin 
 
 #### Overview
 Learn how to build an Employee Leave Management System using .Net Core, Entity Framework, Code-First and the Repository Pattern. This course will show you how to use Visual Studio, Microsoft SQL Server Express and explore dynamic web development with Bootstrap and JQuery and various front-end libraries. ASP.NET Core is Microsoft's modern, cross-platform framework for building enterprise ready web applications. In this course,  you will learn everything you need to know about building ASP.NET Core applications, from understanding the folder structure and files, to building a complete web application. 
-
+ 
 
 #### Why Learn .NET MVC
 Microsoft .NET is the platform that drives the business technology of many of the top corporations in the United States and many other countries. It is the predominant technology used to drive enterprise-scale business technology. Companies have chosen .NET because for its proven scalability, reliability, and support.

@@ -56,6 +56,6 @@ We will explore what an HTML needs to look like at minimum, and what each elemen
 ## Where to learn more
 This is just an introduction to the topic. To learn more, I recommend these resources:
 
-(https://www.w3.org/TR/WCAG20/)
-(https://webaim.org)
-(https://developers.google.com/web/fundamentals/accessibility/)
+https://www.w3.org/TR/WCAG20/ <br/>
+https://webaim.org <br/>
+https://developers.google.com/web/fundamentals/accessibility/ <br/>

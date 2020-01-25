@@ -37,6 +37,8 @@ We will explore what an HTML needs to look like at minimum, and what each elemen
     </html>
 ```
 
+<br/>
+
 #### Mandatory Elements
 **!DOCTYPE html**: The <!DOCTYPE html> statement must always be the first to appear on an HTML page and tells the browser which version of the language is being used.
 
@@ -48,10 +50,14 @@ We will explore what an HTML needs to look like at minimum, and what each elemen
 
 **body**: Between the < body> and </ body> tags the page content is placed.
 
+<br/>
+
 #### Page Contents
 **h1**: Creates a heading 1 tage, the largest of the heading tags.
 
 **p**: Creates a paragraph, perhaps the most common block level element.
+
+<br/>
 
 ## Where to learn more
 This is just an introduction to the topic. To learn more, I recommend these resources:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate HTML Primer
-sub-title: A succint walkthrough of how to author an HTML page and the most commonly used tags 
+sub-title: A succinct walk through of how to author an HTML page  
 img: html-examples.jpeg
 tags: [html, tutorial, guide]
 comments: true

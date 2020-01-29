@@ -31,24 +31,9 @@
     
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.tagline }}">
-    {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}" />
-    {% elsif page.img %}
-    <meta property="og:image" content="{{ page.img }}" />
-    {% elsif site.image %}
-    <meta property="og:image" content="{{ site.image }}">
-    {% endif %}
+    
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta name="twitter:card" content="summary_large_image">
-
-    <meta property="og:type" content="website" />
-    {% if page.id %}
-    <meta property="og:url" content="{{ page.url | absolute_url }}" />
-    <link rel="canonical" href="{{ page.url | absolute_url }}" />
-    {% else %}
-    <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}" />
-    <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
-    {% endif %}
     {% if page.image %}
     <meta property="og:image" content="{{ page.image }}" />
     {% elsif page.img %}
@@ -60,6 +45,15 @@
     {% else %}
     <meta property="og:image" content="{{ site.image }}" />
     {% endif %}
+    <meta property="og:type" content="website" />
+    {% if page.id %}
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <link rel="canonical" href="{{ page.url | absolute_url }}" />
+    {% else %}
+    <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}" />
+    <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
+    {% endif %}
+    
 
 	<!--[if IE]>
 		<script type="text/javascript">

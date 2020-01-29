@@ -53,7 +53,7 @@ We will explore what an HTML needs to look like at minimum, and what each elemen
 <br/>
 
 #### Page Contents
-**h1**: Creates a heading 1 tage, the largest of the heading tags.
+**h1**: Creates a heading 1 tag, the largest of the heading tags.
 
 **p**: Creates a paragraph, perhaps the most common block level element.
 

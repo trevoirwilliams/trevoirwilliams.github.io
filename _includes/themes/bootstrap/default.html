@@ -31,13 +31,8 @@
     
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.tagline }}">
-    {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}" />
-    {% elsif page.img %}
-    <meta property="og:image" content="{{ page.img }}" />
-    {% elsif site.image %}
-    <meta property="og:image" content="{{ site.image }}">
-    {% endif %}
+
+    
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta name="twitter:card" content="summary_large_image">
 
@@ -49,6 +44,7 @@
     <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}" />
     <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
     {% endif %}
+    
     {% if page.image %}
     <meta property="og:image" content="{{ page.image }}" />
     {% elsif page.img %}
@@ -120,7 +116,7 @@
       "@context" : "http://schema.org",
       "@type" : "Person",
       "name" : "Trevoir Williams",
-     "url" : "https://trevoirwilliams.github.io",
+     "url" : "https://trevoirwilliams.com",
      "sameAs" : [
        "https://twitter.com/trevoirwilliams",
        "https://www.facebook.com/trevoirwilliams",
@@ -128,8 +124,8 @@
        ],
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "123 Example Street",
-        "addressRegion": "CA",
+        "streetAddress": "Jamaica",
+        "addressRegion": "JM",
         "postalCode": "000",
         "addressCountry": "JM"
       }

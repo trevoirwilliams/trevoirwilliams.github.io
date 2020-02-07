@@ -185,7 +185,7 @@ keywords: home, landing, website, development
                     <p>Learn Database Development techniques using MySQL Server and MySQL Workbench</p>
                     <a href="http://bit.ly/2MuFlnr" target="_blank"  class="btn btn-info btn-block">Udemy</a>
                     <a href="https://skl.sh/2Y2M8uN" target="_blank"  class="btn btn-info btn-block">Skillshare</a>
-                    <a href="{{ BASE_PATH }}//mysql-course" class="btn std-btn btn-filled btn-block">Read More</a>
+                    <a href="{{ BASE_PATH }}/mysql-course" class="btn std-btn btn-filled btn-block">Read More</a>
                   </div>
                 </div>
               </div>
@@ -226,8 +226,39 @@ keywords: home, landing, website, development
       <!-- posts carousel -->
       <section id="blog">
         <h2 class="heading-title text-center">Blog Articles</h2> <br/> 
-        <div class="container">                              
-          <div id="posts-carousel-3col" class="owl-carousel">
+        <div class="container">
+            <div id="posts-carousel" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+              <div class="owl-wrapper-outer">
+                    <div class="owl-wrapper" style="width: 4448px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(0px, 0px, 0px);">
+                      {% for post in site.posts %}   
+                      <div class="owl-item" style="width: 278px;">
+                        <div class="blog block carousel-post">
+                          {% if post.img %}           
+                            <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="Post Image"></a>
+                          {% endif %}    
+                          <h5><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
+                          <p>{{ post.excerpt | truncate: 100 }}</p>
+                          <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                        </div>
+                        {% endfor %}    
+                      </div>
+                    </div>
+              </div>
+            </div>
+
+          <div class="owl-controls clickable">
+              <div class="owl-pagination">
+                <div class="owl-page active"><span class=""></span></div>
+                <div class="owl-page"><span class=""></span></div>
+              </div>
+              <div class="owl-buttons">
+                <div class="owl-prev"><i class="fa fa-angle-left"></i></div>
+                <div class="owl-next"><i class="fa fa-angle-right"></i></div>
+              </div>
+          </div>
+        </div>
+
+          <!-- <div id="posts-carousel-3col" class="owl-carousel">
            {% for post in site.posts %}     
             <div class="blog-block blog block carousel-post">
              {% if post.img %}           
@@ -238,8 +269,8 @@ keywords: home, landing, website, development
               <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
            {% endfor %}     
-          </div>              
-        </div>
+          </div>               -->
+        <!-- </div> -->
       </section>
 	
       <!-- CONTACT FORM -->     

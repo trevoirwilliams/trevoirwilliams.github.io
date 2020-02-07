@@ -227,7 +227,7 @@ keywords: home, landing, website, development
       <section id="blog">
         <h2 class="heading-title text-center">Blog Articles</h2> <br/> 
         <div class="container">
-          <div id="posts-carousel-3col" class="owl-carousel">
+          
             <div id="posts-carousel" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
               {% for post in site.posts %}   
               
@@ -240,7 +240,7 @@ keywords: home, landing, website, development
                   <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                 </div>
                 {% endfor %}    
-            </div>
+           
           </div>
 
           <div class="owl-controls clickable">
@@ -255,19 +255,7 @@ keywords: home, landing, website, development
           </div>
         </div>
 
-          <!-- <div id="posts-carousel-3col" class="owl-carousel">
-           {% for post in site.posts %}     
-            <div class="blog-block blog block carousel-post">
-             {% if post.img %}           
-             <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="Post Image"></a>
-             {% endif %}           
-              <h5><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
-              <p>{{ post.excerpt | truncate: 100 }}</p>
-              <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-            </div>
-           {% endfor %}     
-          </div>               -->
-        <!-- </div> -->
+          
       </section>
 	
       <!-- CONTACT FORM -->     

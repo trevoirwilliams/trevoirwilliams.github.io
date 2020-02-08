@@ -41,7 +41,7 @@ keywords: home, landing, website, development
                   <div class="testimonial-inner text-md-center">
                     <h2 class="text-white">Course Review</h2>
                     <blockquote>
-                      I really enjoyed this course! I had a very basic knowledge of PHP before enrolling, this course taught me a much more in-depth understanding...All in all, I thought the course was done very well and I learned a great deal from it. The explanations were easy to follow and coding along was effortless. Really nice job! I look forward to future courses from the authors. <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+                      I really enjoyed this course! I had a very basic knowledge of PHP before enrolling, this course taught me a much more in-depth understanding...All in all, I thought the course was done very well and I learned a great deal from it. The explanations were easy to follow and coding along was effortless. Really nice job! I look forward to future courses from the authors. <br/><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
                     </blockquote>
                     <div class="testimonial-images">
                       <img class="img-circle text-md-center" src="{{ BASE_PATH }}/assets/images/php-pdo.png" alt="">
@@ -62,7 +62,7 @@ keywords: home, landing, website, development
                   <div class="testimonial-inner text-md-center">
                     <h2 class="text-white">Course Review</h2>
                     <blockquote>
-                      Logical, comprehensive and sequential. <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+                      Logical, comprehensive and sequential. <br/><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
                     </blockquote>
                     <div class="testimonial-images">
                       <img class="img-circle text-md-center" src="{{ BASE_PATH }}/assets/images/sqlvnosql.jpg" alt="">
@@ -83,7 +83,7 @@ keywords: home, landing, website, development
                   <div class="testimonial-inner text-md-center">
                     <h2 class="text-white">Course Review</h2>
                     <blockquote>
-                      Took this as review. Great explanations with simple examples and gives options on how to do things via SQL or using a GUI. Wish I had taken this when I was first learning SSMS! Gives a good introduction without going too deep. <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+                      Took this as review. Great explanations with simple examples and gives options on how to do things via SQL or using a GUI. Wish I had taken this when I was first learning SSMS! Gives a good introduction without going too deep. <br/><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
                     </blockquote>
                     <div class="testimonial-images">
                       <img class="img-circle text-md-center" src="{{ BASE_PATH }}/assets/images/sql-course.jpg" alt="">
@@ -104,7 +104,8 @@ keywords: home, landing, website, development
                   <div class="testimonial-inner text-md-center">
                     <h2 class="text-white">Course Review</h2>
                     <blockquote>
-                      He is a very good instructor. I like how I can understand him very well. I am interested in more courses from this one! <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+                      He is a very good instructor. I like how I can understand him very well. I am interested in more courses from this one! <br/>
+                      <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
                     </blockquote>
                     <div class="testimonial-images">
                       <img class="img-circle text-md-center" src="{{ BASE_PATH }}/assets/images/rest-api-pic.jpg" alt="">
@@ -184,7 +185,7 @@ keywords: home, landing, website, development
                     <p>Learn Database Development techniques using MySQL Server and MySQL Workbench</p>
                     <a href="http://bit.ly/2MuFlnr" target="_blank"  class="btn btn-info btn-block">Udemy</a>
                     <a href="https://skl.sh/2Y2M8uN" target="_blank"  class="btn btn-info btn-block">Skillshare</a>
-                    <a href="{{ BASE_PATH }}//mysql-course" class="btn std-btn btn-filled btn-block">Read More</a>
+                    <a href="{{ BASE_PATH }}/mysql-course" class="btn std-btn btn-filled btn-block">Read More</a>
                   </div>
                 </div>
               </div>
@@ -208,8 +209,8 @@ keywords: home, landing, website, development
                   <img src="{{ BASE_PATH }}/assets/images/laptop-code.jpg" alt="">
                   <div class="featured-content">
                     <h4>Complete ASP.Net Core 3.1 and Entity Framework </h4>
-                    <div class="alert alert-success text-center" role="alert">
-                      Free - For Limited Time ONLY!
+                    <div class="alert alert-warning text-center" role="alert">
+                      Discount Coupon Attached
                     </div>
                     <p>Learn End To End ASP.NET Core 3.1 and Entity Framework Development.</p>
                     <a href="http://bit.ly/30oniUV" target="_blank"  class="btn btn-info btn-block">Udemy</a>
@@ -225,20 +226,32 @@ keywords: home, landing, website, development
       <!-- posts carousel -->
       <section id="blog">
         <h2 class="heading-title text-center">Blog Articles</h2> <br/> 
-        <div class="container">                              
-          <div id="posts-carousel-3col" class="owl-carousel">
-           {% for post in site.posts %}     
-            <div class="blog-block blog block carousel-post">
-             {% if post.img %}           
-             <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="Post Image"></a>
-             {% endif %}           
-              <h5><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
-              <p>{{ post.excerpt | truncate: 100 }}</p>
-              <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-            </div>
-           {% endfor %}     
-          </div>              
+        <div class="container">
+          
+            <div id="posts-carousel" class="owl-carousel" style="opacity: 1; display: block;">
+              {% for post in site.posts %}   
+              
+                <div class="blog block carousel-post">
+                  {% if post.img %}           
+                    <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="Post Image"></a>
+                  {% endif %}    
+                  <h5><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
+                  <p>{{ post.excerpt | truncate: 100 }}</p>
+                  <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </div>
+                {% endfor %}    
+           
+          </div>
+
+          <div class="owl-controls clickable">
+              <div class="owl-pagination">
+                <div class="owl-page active"><span class=""></span></div>
+                <div class="owl-page"><span class=""></span></div>
+              </div>
+          </div>
         </div>
+
+          
       </section>
 	
       <!-- CONTACT FORM -->     
@@ -253,8 +266,7 @@ keywords: home, landing, website, development
           </div>
         </div>
 	</div>
-
-{}            
+          
             
 <!-- Content area end -->
 </div>

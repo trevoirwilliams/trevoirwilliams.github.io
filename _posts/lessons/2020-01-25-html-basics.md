@@ -20,7 +20,7 @@ An HTML document has two aspects to it. It contains structured information (Mark
 HTML5 is the latest revision of HTML. The World Wide Web Consortium (W3C) organizes development standards for the World Wide Web. As web pages and web applications grow more complex, W3C updates HTML’s standards.
 
 ## A simple example of HTML Document
-We will explore what an HTML needs to look like at minimum, and what each element is respensible for. 
+We will explore what an HTML needs to look like at minimum, and what each element is responsible for. 
 
 ```html
     <!DOCTYPE html>

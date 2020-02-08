@@ -5,8 +5,8 @@ subtitle: A free course on how to setup a PHP environment; build a PHP website; 
 image: /img/php-logo.jpg
 ---
 <div class="text-center jumbotron">
-    <a href="http://bit.ly/2MuFlnr" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2Y2M8uN" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
+    <a href="http://bit.ly/2oOkrpT" target="_blank" class="btn std-btn btn-xlg btn-common">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2mJPfY2" target="_blank" class="btn std-btn btn-xlg btn-common">Skillshare - 2 Months Free Premium Membership</a>
 </div>
 
 <div>

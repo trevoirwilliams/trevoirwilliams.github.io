@@ -52,7 +52,7 @@
     <meta property="og:image" content="{{ page.img }}" />
     {% elsif page.share-img %}
     <meta property="og:image" content="{{ page.share-img }}" />
-    {% else site.avatar %}
+    {% elsif site.avatar %}
     <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
     {% else %}
     <meta property="og:image" content="{{ site.image }}" />

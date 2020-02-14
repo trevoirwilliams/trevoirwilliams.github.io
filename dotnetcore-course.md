@@ -4,10 +4,6 @@ title: Complete ASP.Net Core 3.1 and Entity Framework Development
 subtitle: Learn ASP.NET Core 3.1 and Entity Framework by building a practical Employee Leave Management System.
 img: laptop-code.jpg
 ---
-{:.message-box .alert-success}
-**FREE FOR LIMITED TIME ONLY **  <br/>
-For A Limited TIme, This course is being offered for Free, Enroll now and begin learning a new skill!
-
 <div class="text-center jumbotron">
     <a href="http://bit.ly/30oniUV" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
     <a href="https://skl.sh/2TjAJ7f" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a>

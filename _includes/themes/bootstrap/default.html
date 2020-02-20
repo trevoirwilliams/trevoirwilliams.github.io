@@ -47,9 +47,9 @@
     {% endif %}
     
     {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}" />
+    <meta property="og:image" content="{{BASE_PATH}}/assets/images/{{ page.image }}" />
     {% elsif page.img %}
-    <meta property="og:image" content="{{ page.img }}" />
+    <meta property="og:image" content="{{BASE_PATH}}/assets/images/{{ page.img }}" />
     {% elsif page.share-img %}
     <meta property="og:image" content="{{ page.share-img }}" />
     {% elsif site.avatar %}

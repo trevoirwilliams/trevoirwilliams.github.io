@@ -31,9 +31,13 @@
         {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ BASE_PATH }}/assets/css/custom/{{ page.css }}" />{% endif %}
     
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{{ page.tagline }}">
 
-    
+    {% if page.tagline %}
+    <meta property="og:description" content="{{ page.tagline }}">
+    {% else %}
+    <meta property="og:description" content="{{ page.sub-title }}">
+    {% endif %}
+
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta name="twitter:card" content="summary_large_image">
 
@@ -51,7 +55,7 @@
     {% elsif page.img %}
     <meta property="og:image" content="{{BASE_PATH}}/assets/images/{{ page.img }}" />
     {% elsif page.share-img %}
-    <meta property="og:image" content="{{ page.share-img }}" />
+    <meta property="og:image" content="{{BASE_PATH}}/assets/images/{{ page.share-img }}" />
     {% elsif site.avatar %}
     <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
     {% else %}

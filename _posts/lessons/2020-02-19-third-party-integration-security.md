@@ -47,10 +47,13 @@ If something changes, the checksum will also change and the browser won’t load
 <br/>
 
 ### Don’t Overdose on Plugins and Libraries
-Yes, there are many third-party libraries that can do many things. This doesn't mean that you should try and get them all. In fact, many times, one library has 'all' the features that we may need, but we find pieces of functionality in 4-5 other libraries and include them all. 
+**Risk**
 
-The more plugins and libraries you have, the bulkier your site and the slower your loading times, so don’t use plugins unless absolutely necessary. 
-If you must use a lot of plugins, make sure you have  package manager (like [NuGet](https://www.nuget.org/) or [Composer](https://getcomposer.org/))to manage them. Also be selective of where you place your references.  
+The more plugins and libraries you have, the bulkier your site and the slower your loading times, so don’t use plugins unless absolutely necessary. Yes, there are many third-party libraries that can do many things. This doesn't mean that you should try and get them all. In fact, many times, one library has 'all' the features that we may need, but we find pieces of functionality in 4-5 other libraries and include them all. 
+
+**Mitigation**
+
+If you must use a lot of plugins, make sure you have  package manager (like [NuGet](https://www.nuget.org/) or [Composer](https://getcomposer.org/))to manage them. Also be selective of where you place your references.  You want to reduce your risk of exposure as much as possible, so having a good handle of what is being referenced and from where (reputable sources recommended!) will keep you in check. 
 
 ### Conclusion
 The fact is that, once you have opened up to the internet, ypu are placing quite a bit online. What may seem like an innocent enhancement or feature inclusion, can have unforeseen and unfortunate side effects for either yourself as the host, or your users. 

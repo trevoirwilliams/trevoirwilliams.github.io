@@ -34,20 +34,20 @@ Take for instance the following operation:
     $area = 7 * 7 * 3.14;
 ```
 
-What do thoise number represent? If you remember you math, then you might see that this formula is for the area of a circle...but what is 3.14? What are the 7s? It is better to place these values in variables with appropriate names, so that someone looking at the code can deduce the relevance of these seemingly randomly placed numbers. 
+What do those numbers represent? If you remember you math, then you might see that this formula is for the area of a circle...but what is 3.14? What are the 7s? It is better to place these values in variables with appropriate names, so that someone looking at the code can deduce the relevance of these seemingly randomly placed numbers. 
 ```php
     $pi = 3.14;
     //Raising 7 to the power of 2
     $area = pow(7, 2) * $pi;
 ```
-The same principle applies to strings. Place preset values i n variables so that others can figure out what those values are for. 
+The same principle applies to strings. Place preset values in variables so that others can figure out what those values are for. 
 
 Enhance your PHP Development Skills by enrolling in [Modern PHP Web Development w/ MySQL, GitHub & Bootstrap 4](http://bit.ly/32QbYlN) AND [Basic PHP Development with Bootstrap, GitHub and Heroku](http://bit.ly/2VRx4iv).
 
 ### Format Your Code
 Messing up the formatting of code is something that is often done by people who don’t have a lot of programming experience.
 
-That being said, mode modern IDEs enforce certain formatting best practices. This makes it rather difficult for someone to write messy code. In fact, you have to be very DELIBERATE to mess up the indentation and ignore the auto complete prompts and naming conventions being suggested.
+That being said, most modern IDEs enforce certain formatting best practices. This makes it rather difficult for someone to write messy code. In fact, you have to be very DELIBERATE to mess up the indentation and ignore the auto complete prompts and naming conventions being suggested.
 
 I suggest that you rely on the IDE's suggestions and allow the suggested formatting to guide your way. 
 

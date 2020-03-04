@@ -10,9 +10,9 @@ Making mistakes as a new developer are all part of the learning. However, there 
 Making these adjustments to your developer habits and patterns will not only be beneficial to you but also to the other developers that have to take a look at your code. 
 
 ### One Function, One Concern
-A function should only be responsible for doing one thing. You don't wnt to a have one function doing input, output and processing (acceptable in very special circumstances). This  will bloat your function and potentially lead to a debugging nightmare. 
+A function should only be responsible for doing one thing. You don't want to a have one function doing input, output and processing (acceptable in very special circumstances). This  will bloat your function and potentially lead to a debugging nightmare. 
 
-That being said, it is not a one-size-fits-all situation where you have one function for input, another for output, etc. This can lead to too many functions too. I prefer to think that a function should address one concern (not necessarily operation) at a time. If your function is designed to get a car record, then that is all it should do. There might be something else involved in the record's retrieval, but the function should be trying to get a car record and calculate the mileage and find all the drivers (and so on) in one function. 
+That being said, it is not a one-size-fits-all situation where you have one function for input, another for output, etc. This can lead to too many functions too. I prefer to think that a function should address one concern (not necessarily operation) at a time. If your function is designed to get a car record, then that is all it should do. There might be something else involved in the record's retrieval, but the function should not be trying to get a car record and calculate the mileage and find all the drivers (and so on) in one function. 
 
 ### Remove Commented-Out Code
 You don't want to leave old code lying around in your files. Sometimes we would have written a paragraph of code and then had an epiphany afterwards. We then commented it out and started over. That is fine until someone else needs to look at or use the code. Now, no one knows how relevant this commented out code is. I have actually been caught in this trap before, where I commented out a block of code, inadvertently uncommented it and then spent hours wondering why my new code wasn't working. 
@@ -22,7 +22,7 @@ Just delete the commented-out code. Even though the code is not in the latest re
 I wrote a post a while ago about some simple rules that you can follow to create good names for your variables. And I can’t emphasize enough how important good variable names are. Most of the time, you are not the only developer working on a project. Other developers need to understand your code as well.
 
 ### Use Descriptive Variable Names
-Simple fix for many problems. If you are storing a number, called the variable 'num'. If you are storing first name, then name the variable 'firstName' or 'fname' or something relevant. Please avoid calling them 'x' and 'y'. No one else will understand was x means. To be frank, after a night out enjoying yourself, you will look at 'x' and wonder what in the world this variable was being used for. 
+Simple fix for many problems. If you are storing a number, called the variable 'num'. If you are storing first name, then name the variable 'firstName' or 'fname' or something relevant. Please avoid calling them 'x' and 'y'. No one else will understand what x means. To be frank, after a night out enjoying yourself, you will look at 'x' and wonder what in the world this variable was being used for. 
 
 Do yourself and your team  a favour and use sensible variable names. 
 

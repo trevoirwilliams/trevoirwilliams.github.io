@@ -5,7 +5,7 @@ subtitle: Common Coding Tips to help you with the presentation of your code.
 img: code.jpg
 ---
 
-Making mistakes as a new developer are all part of the learning. However, there are certain mistakes that tend to continue and need to be addressed. Below is a list of common practices (that can be perceived as mistakes) that developers may continue to do overtime, while not realizing the underlying dangers. 
+Mistakes are all a part of learning. However, there are certain mistakes that tend to continue and need to be addressed. Below is a list of common practices (that can be perceived as mistakes) that developers may continue to do overtime, while not realizing the underlying dangers. 
 
 Making these adjustments to your developer habits and patterns will not only be beneficial to you but also to the other developers that have to take a look at your code. 
 

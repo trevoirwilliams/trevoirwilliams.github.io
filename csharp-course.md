@@ -12,7 +12,6 @@ img: csharp.jpg
 
 #### Overview
 In this course, you will learn C# programming for desktop applications. This journey will have you becoming proficient in:
-
 - Visual Studio Interface and Shortcuts
 - Data Driven Graphical User Interface Applications using Windows Forms 
 - Managing Databases with SQL Server Management Studio
@@ -53,7 +52,6 @@ C# can be used to build:
 </ul>
 
 This course is practical and will equip you with all you need to build a fully functional web application, add it to source control using GitHub and finally, host it on Heroku. 
-
 
 #### Build A Strong Foundation in C# Programming:
 - Understand C# Syntax

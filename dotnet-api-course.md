@@ -5,7 +5,15 @@ subtitle: Learn ASP.NET Core 3.1 API Development by building a data driven API a
 img: web-script.jpg
 ---
 <div class="text-center jumbotron">
-    <h1>COMING SOON</h1>
+    <h3>COMING SOON - Sign Up for Pre-Release promotions</h3>
+    <div class="container">
+	<div class="row">	      
+          <div class="col-md-12">
+            <form action="https://tinyletter.com/trevoirwilliams" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/trevoirwilliams', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">
+            </label></p><p><input placeholder="Enter Your Email Address" class="form-control" type="text" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="btn std-btn btn-filled btn-block" type="submit" value="Subscribe" /></form>
+          </div>
+        </div>
+	</div>
     <!-- <a href="http://bit.ly/30oniUV" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
     <a href="https://skl.sh/2TjAJ7f" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a> -->
 </div>
@@ -66,12 +74,26 @@ By the time you have finished the course you will have moved around in Visual St
 
 The course is complete with working files hosted on GitHub, with the inclusion of some files to make it easier for you to replicate the code being demonstrated. You will be able to work alongside the author as you work through each lecture and will receive a verifiable certificate of completion upon finishing the course.
 
-Clicking the Take This Course button could be the best step you could take towards quickly increasing your income and marketability! Also, remember that if you don't think the course is worth what you spent, you have a full 30 days to get a no questions asked refund!
+<!-- Clicking the Take This Course button could be the best step you could take towards quickly increasing your income and marketability! Also, remember that if you don't think the course is worth what you spent, you have a full 30 days to get a no questions asked refund! -->
 
-It's time to take action! This deal will not be available forever!
+<!-- It's time to take action! This deal will not be available forever! -->
 
-Click the "Buy Now" button Today!
+<!-- Click the "Buy Now" button Today!
 
 Every hour you delay is costing you money...
 
-See you in the course!
+See you in the course! -->
+
+<div class="text-center jumbotron">
+    <h3>COMING SOON - Sign Up for Pre-Release promotions</h3>
+    <div class="container">
+	<div class="row">	      
+          <div class="col-md-12">
+            <form action="https://tinyletter.com/trevoirwilliams" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/trevoirwilliams', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">
+            </label></p><p><input placeholder="Enter Your Email Address" class="form-control" type="text" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="btn std-btn btn-filled btn-block" type="submit" value="Subscribe" /></form>
+          </div>
+        </div>
+	</div>
+    <!-- <a href="http://bit.ly/30oniUV" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2TjAJ7f" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a> -->
+</div>

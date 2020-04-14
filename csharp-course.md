@@ -55,22 +55,22 @@ This course is practical and will equip you with all you need to build a fully f
 
 #### Build A Strong Foundation in C# Programming:
 <ul class="list-style check-list pl-0">
-
-- <i class="fa fa-check light-green" aria-hidden="true"></i> Understand C# Syntax
-- Understand Datatypes and Variables
-- Understand Sequence, Decision and Repetition Control Structures
-- Understand String Manipulation
-- Understand Date and Time Manipulation
-- Understand Object Oriented Programming, Classes and Objects
-- Understand Visual Studio
-- Understand Debugging Techniques
-- Understand Event Driven Development
-- Develop Console Applications
-- Develop Windows Forms
-- Develop Data Driven Applications
-- Understand LINQ and Data Queries with C# Syntax
-- Setup Login and User Management Functionality
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand C# Syntax</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand Datatypes and Variables</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand Sequence, Decision and Repetition Control Structures</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand String Manipulation</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand Date and Time Manipulation</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand Object Oriented Programming, Classes and Objects</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Develop Console Applications</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand Visual Studio</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand Debugging Techniques</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand Event Driven Development</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Develop Windows Forms</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Develop Data Driven Applications</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Understand LINQ and Data Queries with C# Syntax</li>
+    <li><i class="fa fa-check light-green" aria-hidden="true"></i> Setup Login and User Management Functionality</li>
 </ul>
+
 #### Content and Overview
 This course is very beginner friendly and chock full of development tips. This huge course offers premium content, smartly broken up to highlight a set of related activities based on each module. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.
 

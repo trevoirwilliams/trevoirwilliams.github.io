@@ -54,6 +54,8 @@ C# can be used to build:
 This course is practical and will equip you with all you need to build a fully functional web application, add it to source control using GitHub and finally, host it on Heroku. 
 
 #### Build A Strong Foundation in C# Programming:
+<ul class="list-style check-list pl-0">
+
 - <i class="fa fa-check light-green" aria-hidden="true"></i> Understand C# Syntax
 - Understand Datatypes and Variables
 - Understand Sequence, Decision and Repetition Control Structures
@@ -68,7 +70,7 @@ This course is practical and will equip you with all you need to build a fully f
 - Develop Data Driven Applications
 - Understand LINQ and Data Queries with C# Syntax
 - Setup Login and User Management Functionality
-
+</ul>
 #### Content and Overview
 This course is very beginner friendly and chock full of development tips. This huge course offers premium content, smartly broken up to highlight a set of related activities based on each module. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.
 

@@ -11,7 +11,9 @@ img: web-script.jpg
 </div>
 
 #### Overview
-Learn how to build a RESTful API for a book store's database using ASP.Net Core 3.1 API, Entity Framework, the Repository Pattern and various other tools and services for testing and versioning. This complete course will show you how to use Visual Studio, Microsoft SQL Server Express and explore consuming a REST API in a .NET application. We will end with a hosted API on Microsoft Azure for global access. We will also explore token based authentication and consuming third party APIs within the API itself. 
+Learn how to build a RESTful API for a book store's database using ASP.Net Core 3.1 API, Entity Framework, the Repository Pattern and various other tools and services for testing and logging. This complete course will show you how to use Visual Studio, Microsoft SQL Server Express and explore consuming a REST API in a .NET application. We will explore hosting an API and SQL Database on Microsoft Azure. 
+
+By the end of the course, we would have built a single page application using Blazor. We will look at parsing and storing JWT information and using it across our application for user authentication and authorization. We will also look at how we communicate with API's in our application. 
 
 ASP.NET Core 3.1 is Microsoft's modern, cross-platform framework for building enterprise ready web applications. In this course,  you will learn everything you need to know about building a RESTful API using ASP.NET Core 3.1, from understanding the folder structure and files, to building a complete web API. 
  
@@ -21,10 +23,19 @@ Microsoft .NET is the platform that drives the business technology of many of th
 
 The .NET language of choice to learn is C#, as it is among the most widely used languages today. It’s a general purpose programming language that can handle almost any problem, from desktop to mobile to dynamic web applications. As such, there is a high demand across the world for .NET developers in a variety of industries, so that means that more jobs are available for candidates with a foundation built upon .NET technologies.
 
+#### Why Develop With Blazor?
+
+The most popular JavaScript client-side web frameworks have been Angular, React, Vue and others. In this course, we keep it .NET by using Blazor, which is Microsoft's response to that monopoly.
+
+Blazor allows you to create a Single Page Application, on top of .NET Core and continue coding in C# (without needing to flip between C# and JavaScript too much). 
+
 #### Build A Strong Foundation in .NET Core Programming: 
 <ul class="list-style check-list pl-0">
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Build a fully data driven web application using cutting edge technology  </li>
+    <li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Build a Single Page Application client side UI using Blazor </li>
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Connect to a Database using Entity Framework Core </li>
     <li>

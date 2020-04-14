@@ -54,7 +54,7 @@ C# can be used to build:
 This course is practical and will equip you with all you need to build a fully functional web application, add it to source control using GitHub and finally, host it on Heroku. 
 
 #### Build A Strong Foundation in C# Programming:
-- Understand C# Syntax
+- <i class="fa fa-check light-green" aria-hidden="true"></i> Understand C# Syntax
 - Understand Datatypes and Variables
 - Understand Sequence, Decision and Repetition Control Structures
 - Understand String Manipulation

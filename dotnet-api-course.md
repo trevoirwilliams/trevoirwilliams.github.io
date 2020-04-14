@@ -32,7 +32,6 @@ Microsoft .NET is the platform that drives the business technology of many of th
 The .NET language of choice to learn is C#, as it is among the most widely used languages today. It’s a general purpose programming language that can handle almost any problem, from desktop to mobile to dynamic web applications. As such, there is a high demand across the world for .NET developers in a variety of industries, so that means that more jobs are available for candidates with a foundation built upon .NET technologies.
 
 #### Why Develop With Blazor?
-
 The most popular JavaScript client-side web frameworks have been Angular, React, Vue and others. In this course, we keep it .NET by using Blazor, which is Microsoft's response to that monopoly.
 
 Blazor allows you to create a Single Page Application, on top of .NET Core and continue coding in C# (without needing to flip between C# and JavaScript too much). 
@@ -64,7 +63,7 @@ Blazor allows you to create a Single Page Application, on top of .NET Core and c
     <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Deploy API and Database to Azure Web and Database Services </li>
 </ul>
 
-#### Content and Overview
+<h4> Content and Overview </h4>
 To take this course, you will need to have some knowledge of Object Oriented Programming, if not C#. Even if you do not have much exposure to the .NET development stack, this course is very beginner friendly and chock full of development tips. 
 
 This is a huge course. Over 15 hours of premium content, but smartly broken up to highlight a set of related activities based on each module in the application that is being built. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.
@@ -72,7 +71,7 @@ This is a huge course. Over 15 hours of premium content, but smartly broken up t
 By the time you have finished the course you will have moved around in Visual Studio and examined logic and syntax errors so much, that it will be second nature for you when working in the .NET environment. This will put your new learned skills into practical use and impress your boss and coworkers.
 
 The course is complete with working files hosted on GitHub, with the inclusion of some files to make it easier for you to replicate the code being demonstrated. You will be able to work alongside the author as you work through each lecture and will receive a verifiable certificate of completion upon finishing the course.
-
+</hr/>
 <div class="text-center jumbotron">
     <h3>COMING SOON - Sign Up for Pre-Release promotions</h3>
     <div class="container">

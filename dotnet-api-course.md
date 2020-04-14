@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learn ASP.NET Core 3.1 API Development From Scratch
-subtitle: Learn ASP.NET Core 3.1 API Development by building a data driven Book Store API and Web App with Entity Framework.
+title: End to End ASP.NET Core 3.1 API and Blazor Development
+subtitle: Learn ASP.NET Core 3.1 API Development by building a data driven API and then a Blazor Web App to as a client app.
 img: web-script.jpg
 ---
 <div class="text-center jumbotron">

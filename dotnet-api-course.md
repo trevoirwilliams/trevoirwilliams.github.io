@@ -64,7 +64,6 @@ Blazor allows you to create a Single Page Application, on top of .NET Core and c
     <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Deploy API and Database to Azure Web and Database Services </li>
 </ul>
 
-
 #### Content and Overview
 To take this course, you will need to have some knowledge of Object Oriented Programming, if not C#. Even if you do not have much exposure to the .NET development stack, this course is very beginner friendly and chock full of development tips. 
 

@@ -12,15 +12,35 @@ img: csharp.jpg
 
 #### Overview
 In this course, you will learn C# programming for desktop applications. This journey will have you becoming proficient in:
-- Visual Studio Interface and Shortcuts
-- Data Driven Graphical User Interface Applications using Windows Forms 
-- Managing Databases with SQL Server Management Studio
-- Developing User and Roles Managed Interfaces and functions
-- Using Utility Classes for cleaner code
-- Developing Multi-Document Interface (MDI) Applications
-- Applying Object Oriented Programming with C#
-- Adding a Visual Studio Project to Source Control
-- These lessons assume no prior knowledge of programming or the C# language, and will have you up and running in no time.
+<ul class="list-style check-list pl-0">
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Visual Studio Interface and Shortcuts
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Data Driven Graphical User Interface Applications using Windows Forms 
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Managing Databases with SQL Server Management Studio
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Developing User and Roles Managed Interfaces and functions
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Using Utility Classes for cleaner code
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Developing Multi-Document Interface (MDI) Applications
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Applying Object Oriented Programming with C#
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> Adding a Visual Studio Project to Source Control
+    </li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i> These lessons assume no prior knowledge of programming or the C# language, and will have you up and running in no time.
+    </li>
+</ul>
 
 #### Why Learn C# Language
 C# is the most versatile programming language in .NET Framework and .NET Core. Not only can you build Windows client applications, but you can also use C# to build Web and mobile apps.

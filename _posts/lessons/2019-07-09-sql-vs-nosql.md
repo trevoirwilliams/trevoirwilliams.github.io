@@ -43,15 +43,17 @@ NoSQL databases are document-oriented. Instead of using tables, these documents 
 - Redis
 
 # Which should you choose?
-#### Use Relational SQL Databases When:
-- You will enforce the ACID (Atomicity, Consistency, Isolation, Durability) principles. 
+#### When To Use Relational SQL Databases:
+**When you will enforce the ACID (Atomicity, Consistency, Isolation, Durability) principles.**
 This reduces anomalies, enforces integrity and that is why this is preferred for commerce and financial applications. 
-- Your data structure is not changing. 
+
+**When your data structure is not changing.**
 If you application design is solid and not expected to be changing with future requirements (at least not very often) then you may proceed to use this type of construct and be confident in your data.
 
-#### Use Non-Relational No-SQL Databases When:
-- You are doing Rapid Application Development.
+#### When To Use Non-Relational No-SQL Databases:
+**When you are doing Rapid Application Development.**
 No-SQL database supporting rapidly changing designs and coding sprints and is perfect for more Agile settings, where requirements change often. 
-- You're storing large amounts of data with little to no structure. 
+
+**When you're storing large amounts of data with little to no structure.**
 Much like expressed in the previous point, if your data requirements are not clear, bu you know that you need to store lots of data somewhere and somehow, then you can use this database type, which you can morph on the fly to match the requirement. 
 

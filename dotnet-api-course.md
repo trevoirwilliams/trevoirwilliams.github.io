@@ -73,16 +73,6 @@ By the time you have finished the course you will have moved around in Visual St
 
 The course is complete with working files hosted on GitHub, with the inclusion of some files to make it easier for you to replicate the code being demonstrated. You will be able to work alongside the author as you work through each lecture and will receive a verifiable certificate of completion upon finishing the course.
 
-<!-- Clicking the Take This Course button could be the best step you could take towards quickly increasing your income and marketability! Also, remember that if you don't think the course is worth what you spent, you have a full 30 days to get a no questions asked refund! -->
-
-<!-- It's time to take action! This deal will not be available forever! -->
-
-<!-- Click the "Buy Now" button Today!
-
-Every hour you delay is costing you money...
-
-See you in the course! -->
-
 <div class="text-center jumbotron">
     <h3>COMING SOON - Sign Up for Pre-Release promotions</h3>
     <div class="container">

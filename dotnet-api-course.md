@@ -41,7 +41,6 @@ Blazor allows you to create a Single Page Application, on top of .NET Core and c
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Build a fully data driven web application using cutting edge technology  </li>
     <li>
-    <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Build a Single Page Application client side UI using Blazor </li>
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Connect to a Database using Entity Framework Core </li>

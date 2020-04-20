@@ -14,8 +14,8 @@ img: web-script.jpg
           </div>
         </div>
 	</div>
-    <!-- <a href="http://bit.ly/30oniUV" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2TjAJ7f" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a> -->
+    <!-- <a href="https://bit.ly/core-api" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2VdkVCq" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a> -->
 </div>
 
 #### Overview
@@ -36,6 +36,8 @@ The most popular JavaScript client-side web frameworks have been Angular, React,
 
 Blazor allows you to create a Single Page Application, on top of .NET Core and continue coding in C# (without needing to flip between C# and JavaScript too much). 
 
+We will be exploring many intricacies of the Blazor life-cycle, data flow, JavaScript Interoperability and general development activities and nuances. 
+
 #### Build A Strong Foundation in .NET Core Programming: 
 <ul class="list-style check-list pl-0">
     <li>
@@ -49,6 +51,14 @@ Blazor allows you to create a Single Page Application, on top of .NET Core and c
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Setup Logging using NLog </li>    <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Understand how the MVC (Models, Views and Controllers) Pattern works </li>
+     <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i>Store JSON Web Tokens using Local Browser Storage</li>
+     <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i>Handle Blazor Application User Authentication State</li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i>Consume REST Web API in Blazor Application (By extension .NET Applications)</li>
+    <li>
+    <i class="fa fa-check light-green" aria-hidden="true"></i>Understand how to use Models, DTOs and AutoMapper </li>
     <li>
     <i class="fa fa-check light-green" aria-hidden="true"></i> Understand C# and .Net Core Web Syntax </li>
     <li>
@@ -67,10 +77,11 @@ To take this course, you will need to have some knowledge of Object Oriented Pro
 
 This is a huge course. Over 15 hours of premium content, but smartly broken up to highlight a set of related activities based on each module in the application that is being built. We will also look at troubleshooting and debugging errors as we go along; implementing best practices; writing efficient logic and understanding why developers do things the way they do. Your knowledge will grow, step by step, throughout the course and you will be challenged to be the best you can be.
 
-By the time you have finished the course you will have moved around in Visual Studio and examined logic and syntax errors so much, that it will be second nature for you when working in the .NET environment. This will put your new learned skills into practical use and impress your boss and coworkers.
+We don't do things the perfect way the first time; that is not the reality of writing code. We make mistakes and point them out and fix them around them. By doing this, we develop proficiency in using debugging tools and techniques. By the time you have finished the course you will have moved around in Visual Studio and examined logic and syntax errors so much, that it will be second nature for you when working in the .NET environment. This will put your new learned skills into practical use and impress your boss and coworkers.
 
 The course is complete with working files hosted on GitHub, with the inclusion of some files to make it easier for you to replicate the code being demonstrated. You will be able to work alongside the author as you work through each lecture and will receive a verifiable certificate of completion upon finishing the course.
-</hr/>
+<hr/>
+<br/>
 <div class="text-center jumbotron">
     <h3>COMING SOON - Sign Up for Pre-Release promotions</h3>
     <div class="container">
@@ -81,6 +92,6 @@ The course is complete with working files hosted on GitHub, with the inclusion o
           </div>
         </div>
 	</div>
-    <!-- <a href="http://bit.ly/30oniUV" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2TjAJ7f" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a> -->
+    <!-- <a href="https://bit.ly/core-api" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2VdkVCq" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a> -->
 </div>

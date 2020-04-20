@@ -40,10 +40,12 @@ Visual Studio 2019
 #### Preparations
 Create a new Web MVC Project. These steps assume that you are using identity core and authenticating against a database developed for your application.
 
-Install the following Nuget package (Include Pre-release) that provide JWT parsing functionality.
+Install the following Nuget packages (Include Pre-release) that provide JWT parsing functionality.
 
 ```csharp
 Microsoft.Aspnetcore.Authentication.Jwtbearer
+System.IdentityModel.Tokens.Jwt
+Microsoft.IdentityModel.Tokens
 ```
 
 #### Configure Middleware
@@ -154,3 +156,47 @@ Now with those configurations made, we can create our User API Controller, which
 Now we can test this endpoint using Postman. 
 ![Postman Test](/assets/images/postman-test.png)
 
+Now we can see that we are successfully retrieving the token from our authentication attempt. We now need to include this token in any subsequent call, to any controller that has the Autheorize attribute. 
+
+Usinga sample Book Controller, we can add the **[Authorize]** attribute, which will cause a 401 response to all unauthenticated requests. 
+
+```csharp
+    [Route("api/[controller]")]
+    [ApiController]
+    [Authorize]
+    public class BooksController : ControllerBase
+    {
+        private readonly IBookRepository _bookRepository;
+        public BooksController(IBookRepository bookRepository)
+        {
+            _bookRepository = bookRepository;
+        }
+        /// <summary>
+        /// Get All Books
+        /// </summary>
+        /// <returns>A List of Books</returns>
+        [HttpGet]
+        public async Task<IActionResult> GetBooks()
+        {
+            try
+            {
+                var books = await _bookRepository.FindAll();
+                return Ok(books);
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, e.Message);
+            }
+        }
+    }
+```
+
+Below, we call this endpoint using Postman and include the bearer token in the request header. 
+
+![Postman Bearer Token](/assets/images/postman-bearer.png)
+
+In the same way if there were roles outlined in the Authorize attribute, the claims section would be parsed to determine what role the user is in and deny them access accordingly. 
+
+Thank you for reading and comment below if you ran into any issues, or if you have suggestions.
+ 
+Thank you again.

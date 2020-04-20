@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips to Write Better Code
-subtitle: Common Coding Tips to help you with the presentation of your code. 
+sub-title: Common Coding Tips to help you with the presentation of your code. 
 img: code.jpg
 ---
 

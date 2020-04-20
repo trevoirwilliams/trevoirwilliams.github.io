@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JWT (Json Web Token) Authentication in ASP.NET Core
-subtitle: JSON Web Token (JWT) is a compact URL-safe means of representing claims to be transferred between two parties. This is a guide to implement them in a .NET Core Application
+sub-title: This is a guide to implement JWT Authentication in a .NET Core Application
 img: jwt.jpg
 ---
 

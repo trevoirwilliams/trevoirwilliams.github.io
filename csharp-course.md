@@ -6,7 +6,7 @@ img: csharp.jpg
 ---
 
 <div class="text-center jumbotron">
-    <a href="https://bit.ly/c-sharp-complete" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
+    <a href="https://bit.ly/c-sharp-course" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
     <a href="https://skl.sh/2xBZHWQ" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a>
 </div>
 

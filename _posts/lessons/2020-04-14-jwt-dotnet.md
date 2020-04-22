@@ -154,7 +154,7 @@ Now with those configurations made, we can create our User API Controller, which
         }
 ```
 Now we can test this endpoint using Postman. 
-![Postman Test](postman-test.png)
+![Postman Test](/assets/images/postman-test.png)
 
 Now we can see that we are successfully retrieving the token from our authentication attempt. We now need to include this token in any subsequent call, to any controller that has the Authorize attribute. 
 

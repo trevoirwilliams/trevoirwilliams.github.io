@@ -4,18 +4,10 @@ title: End to End ASP.NET Core 3.1 API and Blazor Development
 subtitle: Learn ASP.NET Core 3.1 API Development by building a data driven API and then a Blazor Web App to as a client app.
 img: web-script.jpg
 ---
+   
 <div class="text-center jumbotron">
-    <h3>COMING SOON - Sign Up for Pre-Release promotions</h3>
-    <div class="container">
-	<div class="row">	      
-          <div class="col-md-12">
-            <form action="https://tinyletter.com/trevoirwilliams" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/trevoirwilliams', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">
-            </label></p><p><input placeholder="Enter Your Email Address" class="form-control" type="text" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="btn std-btn btn-filled btn-block" type="submit" value="Subscribe" /></form>
-          </div>
-        </div>
-	</div>
-    <!-- <a href="https://bit.ly/core-api" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2VdkVCq" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a> -->
+    <a href="https://bit.ly/3bDUDjL" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
+    <a href="https://skl.sh/2Y470BQ" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a>
 </div>
 
 #### Overview
@@ -82,16 +74,3 @@ We don't do things the perfect way the first time; that is not the reality of wr
 The course is complete with working files hosted on GitHub, with the inclusion of some files to make it easier for you to replicate the code being demonstrated. You will be able to work alongside the author as you work through each lecture and will receive a verifiable certificate of completion upon finishing the course.
 <hr/>
 <br/>
-<div class="text-center jumbotron">
-    <h3>COMING SOON - Sign Up for Pre-Release promotions</h3>
-    <div class="container">
-	<div class="row">	      
-          <div class="col-md-12">
-            <form action="https://tinyletter.com/trevoirwilliams" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/trevoirwilliams', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">
-            </label></p><p><input placeholder="Enter Your Email Address" class="form-control" type="text" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="btn std-btn btn-filled btn-block" type="submit" value="Subscribe" /></form>
-          </div>
-        </div>
-	</div>
-    <!-- <a href="https://bit.ly/core-api" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2VdkVCq" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a> -->
-</div>

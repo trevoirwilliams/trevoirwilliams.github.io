@@ -11,7 +11,7 @@ img: web-script.jpg
 </div>
 
 #### Overview
-Learn how to build a RESTful API for a book store's database using ASP.Net Core 3.1 API, Entity Framework, the Repository Pattern and various other tools and services for testing and logging. This complete course will show you how to use Visual Studio, Microsoft SQL Server Express and explore consuming a REST API in a .NET application. 
+Learn how to build a RESTful API using ASP.Net Core 3.1 API, Entity Framework, the Repository Pattern and various other tools and services for testing and logging; and later consuming it in a modern Blazor App. This complete course will show you how to use Visual Studio, Microsoft SQL Server Express and explore developing, consuming, testing and hosting  a REST API in a .NET application. 
 
 By the end of the course, we would have built a single page application using Blazor. We will look at parsing and storing JWT information and using it across our application for user authentication and authorization. We will also look at how we communicate with API's in our application. 
 

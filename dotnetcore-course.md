@@ -13,7 +13,7 @@ img: laptop-code.jpg
 Learn how to build an Employee Leave Management System using .Net Core, Entity Framework, Code-First and the Repository Pattern. This course will show you how to use Visual Studio, Microsoft SQL Server Express and explore dynamic web development with Bootstrap and JQuery and various front-end libraries. ASP.NET Core is Microsoft's modern, cross-platform framework for building enterprise ready web applications. In this course,  you will learn everything you need to know about building ASP.NET Core applications, from understanding the folder structure and files, to building a complete web application. 
  
 
-#### Why Learn .NET MVC
+#### Why Learn .NET Core 3.1
 Microsoft .NET is the platform that drives the business technology of many of the top corporations in the United States and many other countries. It is the predominant technology used to drive enterprise-scale business technology. Companies have chosen .NET because for its proven scalability, reliability, and support.
 
 The .NET language of choice to learn is C#, as it is among the most widely used languages today. It’s a general purpose programming language that can handle almost any problem, from desktop to mobile to dynamic web applications. As such, there is a high demand across the world for .NET developers in a variety of industries, so that means that more jobs are available for candidates with a foundation built upon .NET technologies.
@@ -39,6 +39,11 @@ The .NET language of choice to learn is C#, as it is among the most widely used 
     <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Manage Packages with NuGet Manager </li>
     <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Implement Website Layout using AdminLTE Theme</li>
     <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Setup GitHub for Source Control </li>
+    <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Asynchronous Programming </li>
+    <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Setting up and Publishing to IIS and Remote Database </li>
+    <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Setting up a Microsoft Azure Account </li>
+    <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Publishing to Azure Web and SQL Services </li>
+    <li> <i class="fa fa-check light-green" aria-hidden="true"></i> Setup Automated Build/Release Pipeline using GitHub and Azure DevOps </li>
 </ul>
 
 

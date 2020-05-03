@@ -3,6 +3,7 @@ layout: post
 title: JWT (Json Web Token) Authentication in ASP.NET Core
 sub-title: This is a guide to implement JWT Authentication in a .NET Core Application
 img: jwt.jpg
+keywords: jwt,tokens,authentication,.net core,core,dotnet,json,web,rest,api,development
 ---
 
 {% include JB/setup %}

@@ -4,6 +4,7 @@ title: Download and Install Microsoft Visual Studio Code for PHP Development
 sub-title: A short guide on how to install and configure Visual Studio Code for PHP Development
 img: php.png
 tags: [development, php, apache, mysql]
+keywords: [development, php, apache, mysql]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---

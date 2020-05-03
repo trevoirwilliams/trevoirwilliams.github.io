@@ -4,6 +4,7 @@ title: Be A Web Application Developer in 5 Steps
 sub-title: A quick set of tips to help you get on your way to being a web developer 
 img: web-dev.jpg
 tags: [web, development, application, html, css, javascript, get started]
+keywords: [web, development, application, html, css, javascript, get started]
 comments: true
 ---
 {% include JB/setup %}

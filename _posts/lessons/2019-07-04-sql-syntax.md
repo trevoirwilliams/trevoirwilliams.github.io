@@ -4,6 +4,7 @@ title: SQL SELECT Statement Syntax
 sub-title: A peek at the SQL Select Statement and the basic syntax
 img: sql-course.jpg
 tags: [sql, database, development, tips, database series]
+keywords: [sql, database, development, tips, database series]
 comments: true
 ---
 

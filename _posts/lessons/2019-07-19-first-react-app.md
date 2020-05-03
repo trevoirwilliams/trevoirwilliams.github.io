@@ -4,6 +4,7 @@ title: Create Your First React App
 sub-title: Let's explore the steps to get started with building a React 
 img: react-app.png
 tags: [javascript, development, web, react]
+keywords: [javascript, development, web, react]
 comments: true
 ---
 {% include JB/setup %}

@@ -4,6 +4,7 @@ title: Working with Relational Databases
 sub-title: A guide on how to get started with Relational Databases. 
 img: relational-database.png
 tags: [sql, database, development, tips, database series]
+keywords: [sql, database, development, tips, database series]
 comments: true
 ---
 {% include JB/setup %}

@@ -3,6 +3,7 @@ layout: post
 title: Tips to Write Better Code
 sub-title: Common Coding Tips to help you with the presentation of your code. 
 img: code.jpg
+keywords: code, mistakes, programming, better, developer
 ---
 
 {% include JB/setup %}

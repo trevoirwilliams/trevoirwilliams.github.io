@@ -4,6 +4,7 @@ title: Setup and Use Free GitHub Account
 sub-title: A short guide on how to setup and use a GitHub account, run a few Git commands and publish code to a repository.
 img: github-mark.png
 tags: [git, php, github, mysql]
+keywords: [git, php, github, mysql]
 series: PHP Bootstrap 4 Form and MySQL CRUD
 comments: true
 ---

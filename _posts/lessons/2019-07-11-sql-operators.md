@@ -4,6 +4,7 @@ title: SQL Operators in the WHERE Clause
 sub-title: Get familiar with commonly used to know SQL Operators and Keywords when filtering data with the WHERE Clause 
 img: sql-img.jpg
 tags: [sql, database, development]
+keywords: [sql, database, development]
 comments: true
 ---
 {% include JB/setup %}

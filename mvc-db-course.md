@@ -7,7 +7,7 @@ img: web-dev.jpg
 
 <div class="text-center jumbotron">
     <a href="http://bit.ly/31oRG0j" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2GRPjep" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a>
+    <a href="https://skl.sh/2GRPjep" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - Free Premium Membership</a>
 </div>
 
 #### Overview

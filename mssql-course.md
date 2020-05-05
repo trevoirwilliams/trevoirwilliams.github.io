@@ -7,7 +7,7 @@ img: sql-course.jpg
 
 <div class="text-center jumbotron">
     <a href="http://bit.ly/2J3Shya" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Udemy - Discount Coupon</a>
-    <a href="https://skl.sh/2PUgPfs" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - 2 Months Free Premium Membership</a>
+    <a href="https://skl.sh/2PUgPfs" target="_blank" class="btn std-btn btn-xlg btn-common btn-block">Skillshare - Free Premium Membership</a>
 </div>
 
 #### Overview
